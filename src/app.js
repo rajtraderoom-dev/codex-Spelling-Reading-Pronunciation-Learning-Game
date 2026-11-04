@@ -5,6 +5,30 @@ const progress = loadProgress(saved);
 let mode = 'spelling', index = 0, storyIndex = 0, solved = false, sound = true, recognition;
 const panel = document.querySelector('#practice');
 const speechSupported = 'speechSynthesis' in window;
+let preferredVoice = '';
+try { preferredVoice = localStorage.getItem('word-garden-voice') || ''; } catch {}
+let voices = [];
+const voiceSettings = document.createElement('div');
+voiceSettings.className = 'voice-settings';
+voiceSettings.innerHTML = '<label for="voice-select">Reading voice</label><select id="voice-select" aria-label="Reading voice"><option value="">Best available English voice</option></select><button id="voice-preview" type="button">Try voice</button>';
+document.querySelector('footer').before(voiceSettings);
+const voiceSelect = voiceSettings.querySelector('select');
+function voiceScore(voice) {
+  return (/natural|neural|premium|enhanced/i.test(voice.name) ? 100 : 0)
+    + (/Google|Microsoft.*Online/i.test(voice.name) ? 50 : 0)
+    + (/Samantha|Daniel|Karen|Moira/i.test(voice.name) ? 20 : 0)
+    + (/^en-US$/i.test(voice.lang) ? 5 : 0);
+}
+function refreshVoices() {
+  voices = speechSynthesis.getVoices().filter(voice => /^en(?:-|_|$)/i.test(voice.lang)).sort((a, b) => voiceScore(b) - voiceScore(a));
+  voiceSelect.replaceChildren(new Option('Best available English voice', ''));
+  for (const voice of voices) voiceSelect.add(new Option(`${voice.name} (${voice.lang})`, voice.voiceURI));
+  voiceSelect.value = voices.some(voice => voice.voiceURI === preferredVoice) ? preferredVoice : '';
+}
+if (speechSupported) { refreshVoices(); speechSynthesis.addEventListener('voiceschanged', refreshVoices); }
+else voiceSettings.hidden = true;
+voiceSelect.onchange = () => { preferredVoice = voiceSelect.value; try { localStorage.setItem('word-garden-voice', preferredVoice); } catch {} };
+document.querySelector('#voice-preview').onclick = () => speak('Hello! Let’s discover something wonderful in our word garden.');
 const Recognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 function save() {
   if (progress.day !== dayKey()) { progress.day = dayKey(); progress.daily = 0; }
@@ -18,7 +42,15 @@ function save() {
 function speak(text) {
   if (!speechSupported) { feedback('Spoken audio is unavailable in this browser. Use the clue or read the text below.', 'neutral'); return; }
   if (!sound) { feedback('Turn sound on using the button at the bottom to hear this word.', 'neutral'); return; }
-  speechSynthesis.cancel(); const utterance = new SpeechSynthesisUtterance(text); utterance.lang = 'en-US'; utterance.rate = 0.8; speechSynthesis.speak(utterance);
+  speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  const voice = voices.find(voice => voice.voiceURI === preferredVoice) || voices[0];
+  if (voice) utterance.voice = voice;
+  utterance.lang = voice?.lang || 'en-US';
+  utterance.rate = 0.95;
+  utterance.pitch = 1;
+  utterance.onerror = event => { if (!['canceled', 'interrupted'].includes(event.error)) feedback('This voice could not play. Try another reading voice below.', 'neutral'); };
+  speechSynthesis.speak(utterance);
 }
 function feedback(text, kind = '') { const el = document.querySelector('#feedback'); el.textContent = text; el.className = `feedback ${kind}`; }
 function win() { if (solved) return; solved = true; progress.stars += 3; progress.completed++; progress.daily++; save(); document.querySelector('#next').hidden = false; }
