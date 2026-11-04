@@ -8,11 +8,23 @@ const speechSupported = 'speechSynthesis' in window;
 let preferredVoice = '';
 try { preferredVoice = localStorage.getItem('word-garden-voice') || ''; } catch {}
 let voices = [];
+let naturalVoice = false, currentAudio = null;
+let speechRequest = 0;
 const voiceSettings = document.createElement('div');
 voiceSettings.className = 'voice-settings';
 voiceSettings.innerHTML = '<label for="voice-select">Reading voice</label><select id="voice-select" aria-label="Reading voice"><option value="">Best available English voice</option></select><button id="voice-preview" type="button">Try voice</button>';
 document.querySelector('footer').before(voiceSettings);
 const voiceSelect = voiceSettings.querySelector('select');
+const voiceStatus = document.createElement('span');
+voiceStatus.className = 'voice-status';
+voiceStatus.setAttribute('role', 'status');
+voiceSettings.append(voiceStatus);
+const audioReady = fetch('/api/speech-status').then(response => response.json()).then(status => {
+  naturalVoice = status.configured === true;
+  voiceSettings.hidden = !naturalVoice && !speechSupported;
+  voiceStatus.textContent = naturalVoice ? 'Natural AI voice available' : 'Using browser voices';
+  refreshVoices();
+}).catch(() => { voiceStatus.textContent = 'Using browser voices'; });
 function voiceScore(voice) {
   return (/natural|neural|premium|enhanced/i.test(voice.name) ? 100 : 0)
     + (/Google|Microsoft.*Online/i.test(voice.name) ? 50 : 0)
@@ -20,8 +32,8 @@ function voiceScore(voice) {
     + (/^en-US$/i.test(voice.lang) ? 5 : 0);
 }
 function refreshVoices() {
-  voices = speechSynthesis.getVoices().filter(voice => /^en(?:-|_|$)/i.test(voice.lang)).sort((a, b) => voiceScore(b) - voiceScore(a));
-  voiceSelect.replaceChildren(new Option('Best available English voice', ''));
+  voices = (speechSupported ? speechSynthesis.getVoices() : []).filter(voice => /^en(?:-|_|$)/i.test(voice.lang)).sort((a, b) => voiceScore(b) - voiceScore(a));
+  voiceSelect.replaceChildren(new Option(naturalVoice ? 'Natural AI voice · ElevenLabs' : 'Best available English voice', ''));
   for (const voice of voices) voiceSelect.add(new Option(`${voice.name} (${voice.lang})`, voice.voiceURI));
   voiceSelect.value = voices.some(voice => voice.voiceURI === preferredVoice) ? preferredVoice : '';
 }
@@ -39,9 +51,32 @@ function save() {
   document.querySelector('#completed').textContent = progress.completed;
   document.querySelector('#accuracy').textContent = progress.attempts ? `${Math.round(progress.correct / progress.attempts * 100)}%` : '—';
 }
-function speak(text) {
-  if (!speechSupported) { feedback('Spoken audio is unavailable in this browser. Use the clue or read the text below.', 'neutral'); return; }
+function stopAudio() {
+  speechRequest++;
+  if (currentAudio) { currentAudio.pause(); currentAudio.removeAttribute('src'); currentAudio.load(); currentAudio = null; }
+  if (speechSupported) speechSynthesis.cancel();
+}
+async function speak(text) {
   if (!sound) { feedback('Turn sound on using the button at the bottom to hear this word.', 'neutral'); return; }
+  stopAudio();
+  const request = speechRequest;
+  await audioReady;
+  if (request !== speechRequest || !sound) return;
+  if (naturalVoice && !preferredVoice) {
+    voiceStatus.textContent = 'Loading natural voice…';
+    const audio = new Audio(`/api/speech?text=${encodeURIComponent(text)}`);
+    currentAudio = audio;
+    try {
+      await audio.play();
+      if (request === speechRequest) voiceStatus.textContent = 'Natural AI voice · ElevenLabs';
+      return;
+    } catch {
+      if (request !== speechRequest) return;
+      voiceStatus.textContent = 'AI audio unavailable · using browser voice';
+      currentAudio = null;
+    }
+  }
+  if (!speechSupported) { feedback('Spoken audio is unavailable in this browser. Use the clue or read the text below.', 'neutral'); return; }
   speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   const voice = voices.find(voice => voice.voiceURI === preferredVoice) || voices[0];
@@ -88,7 +123,7 @@ function render() {
     document.querySelector('#self-practice').onclick = () => { win(); feedback('Practice makes progress! +3 stars for showing up. ✦', 'success'); };
     if (Recognition) document.querySelector('#record').onclick = () => {
       if (solved || recognition) return;
-      if (speechSupported) speechSynthesis.cancel();
+      stopAudio();
       const active = new Recognition(); recognition = active; active.lang = 'en-US'; active.interimResults = false;
       const button = document.querySelector('#record'); button.disabled = true; button.textContent = '● Listening…';
       active.onresult = event => { if (recognition !== active) return; const transcript = event.results[0][0].transcript; if (isCorrect(transcript, item.word)) { win(); feedback(`I heard “${transcript}”. Lovely work! +3 stars ✦`, 'success'); } else feedback(`I heard “${transcript}”. Listen once more and try again.`, 'retry'); };
@@ -97,12 +132,12 @@ function render() {
       try { active.start(); } catch { recognition = null; button.disabled = false; button.textContent = '● Try with my microphone'; feedback('Microphone unavailable. Use the practice button below.', 'neutral'); }
     };
   }
-  document.querySelector('#next').onclick = () => { if (mode === 'reading') storyIndex = (storyIndex + 1) % stories.length; else index = (index + 1) % words.length; render(); panel.querySelector('h2').setAttribute('tabindex', '-1'); panel.querySelector('h2').focus(); };
+  document.querySelector('#next').onclick = () => { stopAudio(); if (mode === 'reading') storyIndex = (storyIndex + 1) % stories.length; else index = (index + 1) % words.length; render(); panel.querySelector('h2').setAttribute('tabindex', '-1'); panel.querySelector('h2').focus(); };
 }
 document.querySelectorAll('[data-mode]').forEach(tab => {
   tab.onclick = () => {
     if (recognition) { const active = recognition; recognition = null; active.abort(); }
-    if (speechSupported) speechSynthesis.cancel();
+    stopAudio();
     mode = tab.dataset.mode;
     document.querySelectorAll('[data-mode]').forEach(other => { const selected = other === tab; other.classList.toggle('active', selected); other.setAttribute('aria-selected', selected); other.tabIndex = selected ? 0 : -1; });
     render();
@@ -115,5 +150,5 @@ document.querySelectorAll('[data-mode]').forEach(tab => {
   };
   tab.tabIndex = tab.dataset.mode === mode ? 0 : -1;
 });
-document.querySelector('#sound-toggle').onclick = event => { sound = !sound; event.currentTarget.textContent = sound ? '♫ Sound on' : '♫ Sound off'; event.currentTarget.setAttribute('aria-pressed', sound); if (!sound && speechSupported) speechSynthesis.cancel(); };
+document.querySelector('#sound-toggle').onclick = event => { sound = !sound; event.currentTarget.textContent = sound ? '♫ Sound on' : '♫ Sound off'; event.currentTarget.setAttribute('aria-pressed', sound); if (!sound) stopAudio(); };
 save(); render();
