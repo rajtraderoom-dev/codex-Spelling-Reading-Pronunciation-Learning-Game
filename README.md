@@ -1,5 +1,11 @@
 # Word Garden
 
+## Android app
+
+The expanded offline Android game is in [`android/`](android/README.md). Download the signed testing APK from [`releases/WordGarden-debug.apk`](releases/WordGarden-debug.apk) after pulling this branch, or open the file on your Android phone. It is separate from the web game below and does not use ElevenLabs or an API key. See the Android README for setup, privacy, and microphone support.
+
+## Original browser game
+
 A responsive spelling, reading, and pronunciation game. Earn stars, explore short stories, and build a daily practice habit. Progress stays in this browser using local storage.
 
 ## Run

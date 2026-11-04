@@ -1,0 +1,7168 @@
+[
+  {
+    "id": "cat",
+    "word": "cat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a small pet that meows",
+    "syllables": [
+      "cat"
+    ],
+    "sentence": "Let us say cat together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "mat",
+    "word": "mat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🟫",
+    "meaning": "a small floor covering",
+    "syllables": [
+      "mat"
+    ],
+    "sentence": "Let us say mat together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "sat",
+    "word": "sat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "rested on a seat",
+    "syllables": [
+      "sat"
+    ],
+    "sentence": "Let us say sat together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "hat",
+    "word": "hat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🎩",
+    "meaning": "something worn on your head",
+    "syllables": [
+      "hat"
+    ],
+    "sentence": "Let us say hat together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "bat",
+    "word": "bat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🦇",
+    "meaning": "an animal that flies at night",
+    "syllables": [
+      "bat"
+    ],
+    "sentence": "Let us say bat together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "rat",
+    "word": "rat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐀",
+    "meaning": "a small animal with a long tail",
+    "syllables": [
+      "rat"
+    ],
+    "sentence": "Let us say rat together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fat",
+    "word": "fat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "having a thick body",
+    "syllables": [
+      "fat"
+    ],
+    "sentence": "Let us say fat together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pat",
+    "word": "pat",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a gentle touch",
+    "syllables": [
+      "pat"
+    ],
+    "sentence": "Let us say pat together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pan",
+    "word": "pan",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🍳",
+    "meaning": "a dish used for cooking",
+    "syllables": [
+      "pan"
+    ],
+    "sentence": "Let us say pan together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fan",
+    "word": "fan",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🪭",
+    "meaning": "something that moves air",
+    "syllables": [
+      "fan"
+    ],
+    "sentence": "Let us say fan together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "man",
+    "word": "man",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "👨",
+    "meaning": "a grown-up boy",
+    "syllables": [
+      "man"
+    ],
+    "sentence": "Let us say man together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "can",
+    "word": "can",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "to be able to do something",
+    "syllables": [
+      "can"
+    ],
+    "sentence": "Let us say can together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "van",
+    "word": "van",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🚐",
+    "meaning": "a vehicle that carries people",
+    "syllables": [
+      "van"
+    ],
+    "sentence": "Let us say van together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "ran",
+    "word": "ran",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "moved fast on your feet",
+    "syllables": [
+      "ran"
+    ],
+    "sentence": "Let us say ran together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "bag",
+    "word": "bag",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "👜",
+    "meaning": "a thing used to carry objects",
+    "syllables": [
+      "bag"
+    ],
+    "sentence": "Let us say bag together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "tag",
+    "word": "tag",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a small label",
+    "syllables": [
+      "tag"
+    ],
+    "sentence": "Let us say tag together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "rag",
+    "word": "rag",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a cloth used to clean",
+    "syllables": [
+      "rag"
+    ],
+    "sentence": "Let us say rag together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "wag",
+    "word": "wag",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "to move a tail side to side",
+    "syllables": [
+      "wag"
+    ],
+    "sentence": "Let us say wag together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "cap",
+    "word": "cap",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🧢",
+    "meaning": "a soft hat",
+    "syllables": [
+      "cap"
+    ],
+    "sentence": "Let us say cap together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "map",
+    "word": "map",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🗺️",
+    "meaning": "a drawing of a place",
+    "syllables": [
+      "map"
+    ],
+    "sentence": "Let us say map together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "tap",
+    "word": "tap",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "to touch lightly",
+    "syllables": [
+      "tap"
+    ],
+    "sentence": "Let us say tap together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "lap",
+    "word": "lap",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "the top of your legs when you sit",
+    "syllables": [
+      "lap"
+    ],
+    "sentence": "Let us say lap together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "gap",
+    "word": "gap",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a space between things",
+    "syllables": [
+      "gap"
+    ],
+    "sentence": "Let us say gap together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "nap",
+    "word": "nap",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a short sleep",
+    "syllables": [
+      "nap"
+    ],
+    "sentence": "Let us say nap together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "jam",
+    "word": "jam",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🍓",
+    "meaning": "fruit spread for bread",
+    "syllables": [
+      "jam"
+    ],
+    "sentence": "Let us say jam together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "ham",
+    "word": "ham",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a kind of food",
+    "syllables": [
+      "ham"
+    ],
+    "sentence": "Let us say ham together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "bad",
+    "word": "bad",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "not good",
+    "syllables": [
+      "bad"
+    ],
+    "sentence": "Let us say bad together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "sad",
+    "word": "sad",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "feeling unhappy",
+    "syllables": [
+      "sad"
+    ],
+    "sentence": "Let us say sad together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "dad",
+    "word": "dad",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "👨",
+    "meaning": "a father",
+    "syllables": [
+      "dad"
+    ],
+    "sentence": "Let us say dad together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "mad",
+    "word": "mad",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "feeling angry",
+    "syllables": [
+      "mad"
+    ],
+    "sentence": "Let us say mad together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "had",
+    "word": "had",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "owned something before",
+    "syllables": [
+      "had"
+    ],
+    "sentence": "Let us say had together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pad",
+    "word": "pad",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a soft cushion",
+    "syllables": [
+      "pad"
+    ],
+    "sentence": "Let us say pad together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "cab",
+    "word": "cab",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a taxi",
+    "syllables": [
+      "cab"
+    ],
+    "sentence": "Let us say cab together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "lab",
+    "word": "lab",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a room for experiments",
+    "syllables": [
+      "lab"
+    ],
+    "sentence": "Let us say lab together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "yak",
+    "word": "yak",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a hairy animal",
+    "syllables": [
+      "yak"
+    ],
+    "sentence": "Let us say yak together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "wax",
+    "word": "wax",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "the soft material of a candle",
+    "syllables": [
+      "wax"
+    ],
+    "sentence": "Let us say wax together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sax",
+    "word": "sax",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "a musical instrument",
+    "syllables": [
+      "sax"
+    ],
+    "sentence": "Let us say sax together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "gas",
+    "word": "gas",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "fuel or air-like matter",
+    "syllables": [
+      "gas"
+    ],
+    "sentence": "Let us say gas together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "has",
+    "word": "has",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "owns or holds",
+    "syllables": [
+      "has"
+    ],
+    "sentence": "Let us say has together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "as",
+    "word": "as",
+    "pattern": "short-a",
+    "level": 1,
+    "picture": "🐈",
+    "meaning": "used to compare things",
+    "syllables": [
+      "as"
+    ],
+    "sentence": "Let us say as together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bed",
+    "word": "bed",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🛏️",
+    "meaning": "a place to sleep",
+    "syllables": [
+      "bed"
+    ],
+    "sentence": "Let us say bed together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "red",
+    "word": "red",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🔴",
+    "meaning": "a color like a tomato",
+    "syllables": [
+      "red"
+    ],
+    "sentence": "Let us say red together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fed",
+    "word": "fed",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "gave food to someone",
+    "syllables": [
+      "fed"
+    ],
+    "sentence": "Let us say fed together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "led",
+    "word": "led",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "showed the way",
+    "syllables": [
+      "led"
+    ],
+    "sentence": "Let us say led together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "wed",
+    "word": "wed",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "to marry",
+    "syllables": [
+      "wed"
+    ],
+    "sentence": "Let us say wed together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "hen",
+    "word": "hen",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🐔",
+    "meaning": "a female chicken",
+    "syllables": [
+      "hen"
+    ],
+    "sentence": "Let us say hen together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "pen",
+    "word": "pen",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🖊️",
+    "meaning": "a tool for writing",
+    "syllables": [
+      "pen"
+    ],
+    "sentence": "Let us say pen together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "ten",
+    "word": "ten",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🔟",
+    "meaning": "one more than nine",
+    "syllables": [
+      "ten"
+    ],
+    "sentence": "Let us say ten together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "men",
+    "word": "men",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "more than one man",
+    "syllables": [
+      "men"
+    ],
+    "sentence": "Let us say men together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "den",
+    "word": "den",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "an animal home",
+    "syllables": [
+      "den"
+    ],
+    "sentence": "Let us say den together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "net",
+    "word": "net",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥅",
+    "meaning": "threads with holes for catching things",
+    "syllables": [
+      "net"
+    ],
+    "sentence": "Let us say net together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "pet",
+    "word": "pet",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🐾",
+    "meaning": "an animal you care for",
+    "syllables": [
+      "pet"
+    ],
+    "sentence": "Let us say pet together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "wet",
+    "word": "wet",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "covered with water",
+    "syllables": [
+      "wet"
+    ],
+    "sentence": "Let us say wet together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "jet",
+    "word": "jet",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "✈️",
+    "meaning": "a fast plane",
+    "syllables": [
+      "jet"
+    ],
+    "sentence": "Let us say jet together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "get",
+    "word": "get",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "to receive something",
+    "syllables": [
+      "get"
+    ],
+    "sentence": "Let us say get together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "set",
+    "word": "set",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "to put in place",
+    "syllables": [
+      "set"
+    ],
+    "sentence": "Let us say set together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "let",
+    "word": "let",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "to allow",
+    "syllables": [
+      "let"
+    ],
+    "sentence": "Let us say let together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "met",
+    "word": "met",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "saw someone before",
+    "syllables": [
+      "met"
+    ],
+    "sentence": "Let us say met together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "vet",
+    "word": "vet",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "👩‍⚕️",
+    "meaning": "an animal doctor",
+    "syllables": [
+      "vet"
+    ],
+    "sentence": "Let us say vet together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "yet",
+    "word": "yet",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "up to now",
+    "syllables": [
+      "yet"
+    ],
+    "sentence": "Let us say yet together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "peg",
+    "word": "peg",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "a small hook or clip",
+    "syllables": [
+      "peg"
+    ],
+    "sentence": "Let us say peg together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "leg",
+    "word": "leg",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🦵",
+    "meaning": "a part of the body used for walking",
+    "syllables": [
+      "leg"
+    ],
+    "sentence": "Let us say leg together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "beg",
+    "word": "beg",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "to ask strongly",
+    "syllables": [
+      "beg"
+    ],
+    "sentence": "Let us say beg together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "web",
+    "word": "web",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🕸️",
+    "meaning": "a spider’s silk net",
+    "syllables": [
+      "web"
+    ],
+    "sentence": "Let us say web together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "gem",
+    "word": "gem",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "💎",
+    "meaning": "a special bright stone",
+    "syllables": [
+      "gem"
+    ],
+    "sentence": "Let us say gem together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "hem",
+    "word": "hem",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "the folded edge of cloth",
+    "syllables": [
+      "hem"
+    ],
+    "sentence": "Let us say hem together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "yes",
+    "word": "yes",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "a word of agreement",
+    "syllables": [
+      "yes"
+    ],
+    "sentence": "Let us say yes together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "elf",
+    "word": "elf",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "a tiny story character",
+    "syllables": [
+      "elf"
+    ],
+    "sentence": "Let us say elf together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "egg",
+    "word": "egg",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "a shell that a baby bird grows inside",
+    "syllables": [
+      "egg"
+    ],
+    "sentence": "Let us say egg together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "end",
+    "word": "end",
+    "pattern": "short-e",
+    "level": 1,
+    "picture": "🥚",
+    "meaning": "the last part",
+    "syllables": [
+      "end"
+    ],
+    "sentence": "Let us say end together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "pig",
+    "word": "pig",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a farm animal with a curly tail",
+    "syllables": [
+      "pig"
+    ],
+    "sentence": "Let us say pig together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "big",
+    "word": "big",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "large in size",
+    "syllables": [
+      "big"
+    ],
+    "sentence": "Let us say big together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "dig",
+    "word": "dig",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "⛏️",
+    "meaning": "to make a hole",
+    "syllables": [
+      "dig"
+    ],
+    "sentence": "Let us say dig together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fig",
+    "word": "fig",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a sweet fruit",
+    "syllables": [
+      "fig"
+    ],
+    "sentence": "Let us say fig together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "wig",
+    "word": "wig",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "hair you can put on",
+    "syllables": [
+      "wig"
+    ],
+    "sentence": "Let us say wig together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "bin",
+    "word": "bin",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🗑️",
+    "meaning": "a container for rubbish",
+    "syllables": [
+      "bin"
+    ],
+    "sentence": "Let us say bin together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "pin",
+    "word": "pin",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "📌",
+    "meaning": "a thin pointed piece of metal",
+    "syllables": [
+      "pin"
+    ],
+    "sentence": "Let us say pin together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fin",
+    "word": "fin",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🦈",
+    "meaning": "a fish’s swimming part",
+    "syllables": [
+      "fin"
+    ],
+    "sentence": "Let us say fin together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "tin",
+    "word": "tin",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🥫",
+    "meaning": "a kind of metal",
+    "syllables": [
+      "tin"
+    ],
+    "sentence": "Let us say tin together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "win",
+    "word": "win",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to do well in a game",
+    "syllables": [
+      "win"
+    ],
+    "sentence": "Let us say win together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "sit",
+    "word": "sit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🪑",
+    "meaning": "to rest on a seat",
+    "syllables": [
+      "sit"
+    ],
+    "sentence": "Let us say sit together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "hit",
+    "word": "hit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to touch with force",
+    "syllables": [
+      "hit"
+    ],
+    "sentence": "Let us say hit together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "bit",
+    "word": "bit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a small piece",
+    "syllables": [
+      "bit"
+    ],
+    "sentence": "Let us say bit together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "fit",
+    "word": "fit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to be the right size",
+    "syllables": [
+      "fit"
+    ],
+    "sentence": "Let us say fit together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "kit",
+    "word": "kit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a set of useful things",
+    "syllables": [
+      "kit"
+    ],
+    "sentence": "Let us say kit together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pit",
+    "word": "pit",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a deep hole",
+    "syllables": [
+      "pit"
+    ],
+    "sentence": "Let us say pit together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "lid",
+    "word": "lid",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "the top of a container",
+    "syllables": [
+      "lid"
+    ],
+    "sentence": "Let us say lid together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "kid",
+    "word": "kid",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🧒",
+    "meaning": "a child",
+    "syllables": [
+      "kid"
+    ],
+    "sentence": "Let us say kid together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "hid",
+    "word": "hid",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "put out of sight",
+    "syllables": [
+      "hid"
+    ],
+    "sentence": "Let us say hid together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "did",
+    "word": "did",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "carried out an action",
+    "syllables": [
+      "did"
+    ],
+    "sentence": "Let us say did together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "lip",
+    "word": "lip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "👄",
+    "meaning": "the soft edge of your mouth",
+    "syllables": [
+      "lip"
+    ],
+    "sentence": "Let us say lip together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "sip",
+    "word": "sip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to drink a little",
+    "syllables": [
+      "sip"
+    ],
+    "sentence": "Let us say sip together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "dip",
+    "word": "dip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to put briefly in liquid",
+    "syllables": [
+      "dip"
+    ],
+    "sentence": "Let us say dip together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "tip",
+    "word": "tip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "the pointed end",
+    "syllables": [
+      "tip"
+    ],
+    "sentence": "Let us say tip together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "rip",
+    "word": "rip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to tear",
+    "syllables": [
+      "rip"
+    ],
+    "sentence": "Let us say rip together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "zip",
+    "word": "zip",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to close a zipper",
+    "syllables": [
+      "zip"
+    ],
+    "sentence": "Let us say zip together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "six",
+    "word": "six",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "6️⃣",
+    "meaning": "one more than five",
+    "syllables": [
+      "six"
+    ],
+    "sentence": "Let us say six together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "mix",
+    "word": "mix",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to put things together",
+    "syllables": [
+      "mix"
+    ],
+    "sentence": "Let us say mix together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "fix",
+    "word": "fix",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "to make something work again",
+    "syllables": [
+      "fix"
+    ],
+    "sentence": "Let us say fix together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "his",
+    "word": "his",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "belonging to him",
+    "syllables": [
+      "his"
+    ],
+    "sentence": "Let us say his together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "in",
+    "word": "in",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "inside something",
+    "syllables": [
+      "in"
+    ],
+    "sentence": "Let us say in together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "is",
+    "word": "is",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a word that tells what something is",
+    "syllables": [
+      "is"
+    ],
+    "sentence": "Let us say is together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "if",
+    "word": "if",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a word for something that might happen",
+    "syllables": [
+      "if"
+    ],
+    "sentence": "Let us say if together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "it",
+    "word": "it",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "a word for a thing",
+    "syllables": [
+      "it"
+    ],
+    "sentence": "Let us say it together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "ill",
+    "word": "ill",
+    "pattern": "short-i",
+    "level": 1,
+    "picture": "🐖",
+    "meaning": "feeling unwell",
+    "syllables": [
+      "ill"
+    ],
+    "sentence": "Let us say ill together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "dog",
+    "word": "dog",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a pet that barks",
+    "syllables": [
+      "dog"
+    ],
+    "sentence": "Let us say dog together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "log",
+    "word": "log",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🪵",
+    "meaning": "a piece of a tree",
+    "syllables": [
+      "log"
+    ],
+    "sentence": "Let us say log together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fog",
+    "word": "fog",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🌫️",
+    "meaning": "a thick cloud near the ground",
+    "syllables": [
+      "fog"
+    ],
+    "sentence": "Let us say fog together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "hog",
+    "word": "hog",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a large pig",
+    "syllables": [
+      "hog"
+    ],
+    "sentence": "Let us say hog together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "jog",
+    "word": "jog",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "to run gently",
+    "syllables": [
+      "jog"
+    ],
+    "sentence": "Let us say jog together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "hot",
+    "word": "hot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "very warm",
+    "syllables": [
+      "hot"
+    ],
+    "sentence": "Let us say hot together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pot",
+    "word": "pot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🍲",
+    "meaning": "a container used for cooking",
+    "syllables": [
+      "pot"
+    ],
+    "sentence": "Let us say pot together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "dot",
+    "word": "dot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "⚫",
+    "meaning": "a small round mark",
+    "syllables": [
+      "dot"
+    ],
+    "sentence": "Let us say dot together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "cot",
+    "word": "cot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🛏️",
+    "meaning": "a small bed",
+    "syllables": [
+      "cot"
+    ],
+    "sentence": "Let us say cot together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "not",
+    "word": "not",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a word that means no",
+    "syllables": [
+      "not"
+    ],
+    "sentence": "Let us say not together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "got",
+    "word": "got",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "received something",
+    "syllables": [
+      "got"
+    ],
+    "sentence": "Let us say got together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "lot",
+    "word": "lot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a large amount",
+    "syllables": [
+      "lot"
+    ],
+    "sentence": "Let us say lot together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "rot",
+    "word": "rot",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "to go bad over time",
+    "syllables": [
+      "rot"
+    ],
+    "sentence": "Let us say rot together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "top",
+    "word": "top",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🔝",
+    "meaning": "the highest part",
+    "syllables": [
+      "top"
+    ],
+    "sentence": "Let us say top together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "hop",
+    "word": "hop",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "to jump on one foot",
+    "syllables": [
+      "hop"
+    ],
+    "sentence": "Let us say hop together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "mop",
+    "word": "mop",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🧹",
+    "meaning": "a tool for washing floors",
+    "syllables": [
+      "mop"
+    ],
+    "sentence": "Let us say mop together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "pop",
+    "word": "pop",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a short bursting sound",
+    "syllables": [
+      "pop"
+    ],
+    "sentence": "Let us say pop together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "cop",
+    "word": "cop",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a police officer",
+    "syllables": [
+      "cop"
+    ],
+    "sentence": "Let us say cop together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "fox",
+    "word": "fox",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🦊",
+    "meaning": "a wild animal with a bushy tail",
+    "syllables": [
+      "fox"
+    ],
+    "sentence": "Let us say fox together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "box",
+    "word": "box",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "📦",
+    "meaning": "a container with sides",
+    "syllables": [
+      "box"
+    ],
+    "sentence": "Let us say box together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "rod",
+    "word": "rod",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a thin straight stick",
+    "syllables": [
+      "rod"
+    ],
+    "sentence": "Let us say rod together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "nod",
+    "word": "nod",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "to move your head up and down",
+    "syllables": [
+      "nod"
+    ],
+    "sentence": "Let us say nod together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "pod",
+    "word": "pod",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a case holding seeds",
+    "syllables": [
+      "pod"
+    ],
+    "sentence": "Let us say pod together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "cod",
+    "word": "cod",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a kind of fish",
+    "syllables": [
+      "cod"
+    ],
+    "sentence": "Let us say cod together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "sob",
+    "word": "sob",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "to cry with sounds",
+    "syllables": [
+      "sob"
+    ],
+    "sentence": "Let us say sob together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "job",
+    "word": "job",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "work that someone does",
+    "syllables": [
+      "job"
+    ],
+    "sentence": "Let us say job together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "on",
+    "word": "on",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "resting above and touching",
+    "syllables": [
+      "on"
+    ],
+    "sentence": "Let us say on together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "off",
+    "word": "off",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "away from a surface",
+    "syllables": [
+      "off"
+    ],
+    "sentence": "Let us say off together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "ox",
+    "word": "ox",
+    "pattern": "short-o",
+    "level": 1,
+    "picture": "🐕",
+    "meaning": "a large farm animal",
+    "syllables": [
+      "ox"
+    ],
+    "sentence": "Let us say ox together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sun",
+    "word": "sun",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "the star that warms Earth",
+    "syllables": [
+      "sun"
+    ],
+    "sentence": "Let us say sun together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "run",
+    "word": "run",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🏃",
+    "meaning": "to move fast on your feet",
+    "syllables": [
+      "run"
+    ],
+    "sentence": "Let us say run together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "fun",
+    "word": "fun",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "something you enjoy",
+    "syllables": [
+      "fun"
+    ],
+    "sentence": "Let us say fun together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "bun",
+    "word": "bun",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🥯",
+    "meaning": "a small round bread",
+    "syllables": [
+      "bun"
+    ],
+    "sentence": "Let us say bun together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "cup",
+    "word": "cup",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☕",
+    "meaning": "a small drinking container",
+    "syllables": [
+      "cup"
+    ],
+    "sentence": "Let us say cup together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "pup",
+    "word": "pup",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🐶",
+    "meaning": "a young dog",
+    "syllables": [
+      "pup"
+    ],
+    "sentence": "Let us say pup together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "up",
+    "word": "up",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "toward a higher place",
+    "syllables": [
+      "up"
+    ],
+    "sentence": "Let us say up together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "us",
+    "word": "us",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "you and me together",
+    "syllables": [
+      "us"
+    ],
+    "sentence": "Let us say us together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bus",
+    "word": "bus",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🚌",
+    "meaning": "a large vehicle for people",
+    "syllables": [
+      "bus"
+    ],
+    "sentence": "Let us say bus together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "bug",
+    "word": "bug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🐞",
+    "meaning": "a small insect",
+    "syllables": [
+      "bug"
+    ],
+    "sentence": "Let us say bug together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "hug",
+    "word": "hug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🤗",
+    "meaning": "to hold someone kindly",
+    "syllables": [
+      "hug"
+    ],
+    "sentence": "Let us say hug together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "jug",
+    "word": "jug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🏺",
+    "meaning": "a container for pouring",
+    "syllables": [
+      "jug"
+    ],
+    "sentence": "Let us say jug together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "mug",
+    "word": "mug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☕",
+    "meaning": "a cup with a handle",
+    "syllables": [
+      "mug"
+    ],
+    "sentence": "Let us say mug together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "rug",
+    "word": "rug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🟫",
+    "meaning": "a thick floor covering",
+    "syllables": [
+      "rug"
+    ],
+    "sentence": "Let us say rug together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "dug",
+    "word": "dug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "made a hole before",
+    "syllables": [
+      "dug"
+    ],
+    "sentence": "Let us say dug together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "tug",
+    "word": "tug",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "to pull hard",
+    "syllables": [
+      "tug"
+    ],
+    "sentence": "Let us say tug together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "mud",
+    "word": "mud",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🟤",
+    "meaning": "wet earth",
+    "syllables": [
+      "mud"
+    ],
+    "sentence": "Let us say mud together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "bud",
+    "word": "bud",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🌷",
+    "meaning": "a flower before it opens",
+    "syllables": [
+      "bud"
+    ],
+    "sentence": "Let us say bud together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "cut",
+    "word": "cut",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "to divide with a sharp edge",
+    "syllables": [
+      "cut"
+    ],
+    "sentence": "Let us say cut together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "hut",
+    "word": "hut",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🛖",
+    "meaning": "a small simple home",
+    "syllables": [
+      "hut"
+    ],
+    "sentence": "Let us say hut together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "nut",
+    "word": "nut",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🥜",
+    "meaning": "a seed with a hard shell",
+    "syllables": [
+      "nut"
+    ],
+    "sentence": "Let us say nut together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "but",
+    "word": "but",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "a word joining different ideas",
+    "syllables": [
+      "but"
+    ],
+    "sentence": "Let us say but together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "shut",
+    "word": "shut",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "to close",
+    "syllables": [
+      "shut"
+    ],
+    "sentence": "Let us say shut together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cub",
+    "word": "cub",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🐻",
+    "meaning": "a young wild animal",
+    "syllables": [
+      "cub"
+    ],
+    "sentence": "Let us say cub together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "rub",
+    "word": "rub",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "to move against a surface",
+    "syllables": [
+      "rub"
+    ],
+    "sentence": "Let us say rub together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "tub",
+    "word": "tub",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "🛁",
+    "meaning": "a deep washing container",
+    "syllables": [
+      "tub"
+    ],
+    "sentence": "Let us say tub together.",
+    "pictureChoice": true,
+    "soundOut": true
+  },
+  {
+    "id": "sub",
+    "word": "sub",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "a boat that goes underwater",
+    "syllables": [
+      "sub"
+    ],
+    "sentence": "Let us say sub together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "gum",
+    "word": "gum",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "the soft part around your teeth",
+    "syllables": [
+      "gum"
+    ],
+    "sentence": "Let us say gum together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "hum",
+    "word": "hum",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "to sing with closed lips",
+    "syllables": [
+      "hum"
+    ],
+    "sentence": "Let us say hum together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "sum",
+    "word": "sum",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "an amount added together",
+    "syllables": [
+      "sum"
+    ],
+    "sentence": "Let us say sum together.",
+    "pictureChoice": false,
+    "soundOut": true
+  },
+  {
+    "id": "puff",
+    "word": "puff",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "a small burst of air",
+    "syllables": [
+      "puff"
+    ],
+    "sentence": "Let us say puff together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cuff",
+    "word": "cuff",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "the end of a sleeve",
+    "syllables": [
+      "cuff"
+    ],
+    "sentence": "Let us say cuff together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "dull",
+    "word": "dull",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "not bright or sharp",
+    "syllables": [
+      "dull"
+    ],
+    "sentence": "Let us say dull together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "gull",
+    "word": "gull",
+    "pattern": "short-u",
+    "level": 1,
+    "picture": "☀️",
+    "meaning": "a white sea bird",
+    "syllables": [
+      "gull"
+    ],
+    "sentence": "Let us say gull together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "frog",
+    "word": "frog",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a jumping animal that croaks",
+    "syllables": [
+      "frog"
+    ],
+    "sentence": "Let us say frog together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "flag",
+    "word": "flag",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🚩",
+    "meaning": "cloth showing a country or team",
+    "syllables": [
+      "flag"
+    ],
+    "sentence": "Let us say flag together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "clap",
+    "word": "clap",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "👏",
+    "meaning": "to bring your hands together",
+    "syllables": [
+      "clap"
+    ],
+    "sentence": "Let us say clap together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "crab",
+    "word": "crab",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🦀",
+    "meaning": "a sea animal with claws",
+    "syllables": [
+      "crab"
+    ],
+    "sentence": "Let us say crab together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "drum",
+    "word": "drum",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🥁",
+    "meaning": "an instrument you hit",
+    "syllables": [
+      "drum"
+    ],
+    "sentence": "Let us say drum together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "drop",
+    "word": "drop",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a tiny bit of liquid",
+    "syllables": [
+      "drop"
+    ],
+    "sentence": "Let us say drop together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "grin",
+    "word": "grin",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a big smile",
+    "syllables": [
+      "grin"
+    ],
+    "sentence": "Let us say grin together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "grip",
+    "word": "grip",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a firm hold",
+    "syllables": [
+      "grip"
+    ],
+    "sentence": "Let us say grip together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "plan",
+    "word": "plan",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "an idea of what to do",
+    "syllables": [
+      "plan"
+    ],
+    "sentence": "Let us say plan together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "plum",
+    "word": "plum",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🟣",
+    "meaning": "a sweet purple fruit",
+    "syllables": [
+      "plum"
+    ],
+    "sentence": "Let us say plum together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sled",
+    "word": "sled",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a seat that slides on snow",
+    "syllables": [
+      "sled"
+    ],
+    "sentence": "Let us say sled together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "slip",
+    "word": "slip",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "to slide by accident",
+    "syllables": [
+      "slip"
+    ],
+    "sentence": "Let us say slip together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "spin",
+    "word": "spin",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "to turn around",
+    "syllables": [
+      "spin"
+    ],
+    "sentence": "Let us say spin together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "spot",
+    "word": "spot",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a small mark",
+    "syllables": [
+      "spot"
+    ],
+    "sentence": "Let us say spot together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "stop",
+    "word": "stop",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "to finish moving",
+    "syllables": [
+      "stop"
+    ],
+    "sentence": "Let us say stop together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "step",
+    "word": "step",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a movement of one foot",
+    "syllables": [
+      "step"
+    ],
+    "sentence": "Let us say step together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "stem",
+    "word": "stem",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "the stalk of a plant",
+    "syllables": [
+      "stem"
+    ],
+    "sentence": "Let us say stem together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "swim",
+    "word": "swim",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🏊",
+    "meaning": "to move through water",
+    "syllables": [
+      "swim"
+    ],
+    "sentence": "Let us say swim together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "twin",
+    "word": "twin",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "one of two children born together",
+    "syllables": [
+      "twin"
+    ],
+    "sentence": "Let us say twin together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "trip",
+    "word": "trip",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a journey",
+    "syllables": [
+      "trip"
+    ],
+    "sentence": "Let us say trip together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "trap",
+    "word": "trap",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a device that catches things",
+    "syllables": [
+      "trap"
+    ],
+    "sentence": "Let us say trap together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "trim",
+    "word": "trim",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "to cut a little off",
+    "syllables": [
+      "trim"
+    ],
+    "sentence": "Let us say trim together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "brick",
+    "word": "brick",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🧱",
+    "meaning": "a block used for building",
+    "syllables": [
+      "brick"
+    ],
+    "sentence": "Let us say brick together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "brush",
+    "word": "brush",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🖌️",
+    "meaning": "a tool with many bristles",
+    "syllables": [
+      "brush"
+    ],
+    "sentence": "Let us say brush together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "black",
+    "word": "black",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "⚫",
+    "meaning": "a very dark color",
+    "syllables": [
+      "black"
+    ],
+    "sentence": "Let us say black together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "block",
+    "word": "block",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "a solid piece",
+    "syllables": [
+      "block"
+    ],
+    "sentence": "Let us say block together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "clock",
+    "word": "clock",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🕰️",
+    "meaning": "a thing that tells time",
+    "syllables": [
+      "clock"
+    ],
+    "sentence": "Let us say clock together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cloud",
+    "word": "cloud",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "☁️",
+    "meaning": "a white or grey shape in the sky",
+    "syllables": [
+      "cloud"
+    ],
+    "sentence": "Let us say cloud together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "dress",
+    "word": "dress",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "👗",
+    "meaning": "a piece of clothing",
+    "syllables": [
+      "dress"
+    ],
+    "sentence": "Let us say dress together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "drink",
+    "word": "drink",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐸",
+    "meaning": "to take liquid into your mouth",
+    "syllables": [
+      "drink"
+    ],
+    "sentence": "Let us say drink together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "grass",
+    "word": "grass",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🌿",
+    "meaning": "green plants covering the ground",
+    "syllables": [
+      "grass"
+    ],
+    "sentence": "Let us say grass together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "green",
+    "word": "green",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🟢",
+    "meaning": "a color like leaves",
+    "syllables": [
+      "green"
+    ],
+    "sentence": "Let us say green together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "plant",
+    "word": "plant",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🌱",
+    "meaning": "a living thing with roots",
+    "syllables": [
+      "plant"
+    ],
+    "sentence": "Let us say plant together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "plate",
+    "word": "plate",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🍽️",
+    "meaning": "a flat dish for food",
+    "syllables": [
+      "plate"
+    ],
+    "sentence": "Let us say plate together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sleep",
+    "word": "sleep",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "😴",
+    "meaning": "to rest with your eyes closed",
+    "syllables": [
+      "sleep"
+    ],
+    "sentence": "Let us say sleep together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "slide",
+    "word": "slide",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🛝",
+    "meaning": "to move along a smooth surface",
+    "syllables": [
+      "slide"
+    ],
+    "sentence": "Let us say slide together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "snail",
+    "word": "snail",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐌",
+    "meaning": "a small animal with a shell",
+    "syllables": [
+      "snail"
+    ],
+    "sentence": "Let us say snail together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "snake",
+    "word": "snake",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🐍",
+    "meaning": "a long animal with no legs",
+    "syllables": [
+      "snake"
+    ],
+    "sentence": "Let us say snake together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "smile",
+    "word": "smile",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "😊",
+    "meaning": "a happy look on your face",
+    "syllables": [
+      "smile"
+    ],
+    "sentence": "Let us say smile together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "snow",
+    "word": "snow",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "❄️",
+    "meaning": "frozen white flakes",
+    "syllables": [
+      "snow"
+    ],
+    "sentence": "Let us say snow together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "spoon",
+    "word": "spoon",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🥄",
+    "meaning": "a tool for eating soup",
+    "syllables": [
+      "spoon"
+    ],
+    "sentence": "Let us say spoon together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "star",
+    "word": "star",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "⭐",
+    "meaning": "a light in the night sky",
+    "syllables": [
+      "star"
+    ],
+    "sentence": "Let us say star together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "stone",
+    "word": "stone",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🪨",
+    "meaning": "a small piece of rock",
+    "syllables": [
+      "stone"
+    ],
+    "sentence": "Let us say stone together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "swing",
+    "word": "swing",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🛝",
+    "meaning": "a hanging seat that moves",
+    "syllables": [
+      "swing"
+    ],
+    "sentence": "Let us say swing together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "train",
+    "word": "train",
+    "pattern": "blends",
+    "level": 2,
+    "picture": "🚂",
+    "meaning": "connected vehicles on rails",
+    "syllables": [
+      "train"
+    ],
+    "sentence": "Let us say train together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "ship",
+    "word": "ship",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🚢",
+    "meaning": "a large boat",
+    "syllables": [
+      "ship"
+    ],
+    "sentence": "Let us say ship together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "shop",
+    "word": "shop",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🏪",
+    "meaning": "a place to buy things",
+    "syllables": [
+      "shop"
+    ],
+    "sentence": "Let us say shop together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "shed",
+    "word": "shed",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a small storage building",
+    "syllables": [
+      "shed"
+    ],
+    "sentence": "Let us say shed together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "shell",
+    "word": "shell",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐚",
+    "meaning": "a hard animal covering",
+    "syllables": [
+      "shell"
+    ],
+    "sentence": "Let us say shell together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "fish",
+    "word": "fish",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "an animal that lives in water",
+    "syllables": [
+      "fish"
+    ],
+    "sentence": "Let us say fish together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "dish",
+    "word": "dish",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a container for food",
+    "syllables": [
+      "dish"
+    ],
+    "sentence": "Let us say dish together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "wish",
+    "word": "wish",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "something you hope for",
+    "syllables": [
+      "wish"
+    ],
+    "sentence": "Let us say wish together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "shark",
+    "word": "shark",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🦈",
+    "meaning": "a large sea fish",
+    "syllables": [
+      "shark"
+    ],
+    "sentence": "Let us say shark together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "shoes",
+    "word": "shoes",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "👟",
+    "meaning": "things you wear on your feet",
+    "syllables": [
+      "shoes"
+    ],
+    "sentence": "Let us say shoes together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sheep",
+    "word": "sheep",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐑",
+    "meaning": "a farm animal with wool",
+    "syllables": [
+      "sheep"
+    ],
+    "sentence": "Let us say sheep together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "chin",
+    "word": "chin",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "👤",
+    "meaning": "the part below your mouth",
+    "syllables": [
+      "chin"
+    ],
+    "sentence": "Let us say chin together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "chip",
+    "word": "chip",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🍟",
+    "meaning": "a small thin piece",
+    "syllables": [
+      "chip"
+    ],
+    "sentence": "Let us say chip together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "chop",
+    "word": "chop",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "to cut into pieces",
+    "syllables": [
+      "chop"
+    ],
+    "sentence": "Let us say chop together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "chat",
+    "word": "chat",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "to talk in a friendly way",
+    "syllables": [
+      "chat"
+    ],
+    "sentence": "Let us say chat together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "chick",
+    "word": "chick",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐤",
+    "meaning": "a baby chicken",
+    "syllables": [
+      "chick"
+    ],
+    "sentence": "Let us say chick together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "chess",
+    "word": "chess",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "♟️",
+    "meaning": "a game with pieces on a board",
+    "syllables": [
+      "chess"
+    ],
+    "sentence": "Let us say chess together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cheese",
+    "word": "cheese",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🧀",
+    "meaning": "a food made from milk",
+    "syllables": [
+      "cheese"
+    ],
+    "sentence": "Let us say cheese together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "chair",
+    "word": "chair",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🪑",
+    "meaning": "a seat with a back",
+    "syllables": [
+      "chair"
+    ],
+    "sentence": "Let us say chair together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cherry",
+    "word": "cherry",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🍒",
+    "meaning": "a small red fruit",
+    "syllables": [
+      "cher",
+      "ry"
+    ],
+    "sentence": "Let us say cherry together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "rich",
+    "word": "rich",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "having plenty of something",
+    "syllables": [
+      "rich"
+    ],
+    "sentence": "Let us say rich together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "much",
+    "word": "much",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a large amount",
+    "syllables": [
+      "much"
+    ],
+    "sentence": "Let us say much together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "such",
+    "word": "such",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "of that kind",
+    "syllables": [
+      "such"
+    ],
+    "sentence": "Let us say such together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "thin",
+    "word": "thin",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "not thick",
+    "syllables": [
+      "thin"
+    ],
+    "sentence": "Let us say thin together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "thick",
+    "word": "thick",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "wide from side to side",
+    "syllables": [
+      "thick"
+    ],
+    "sentence": "Let us say thick together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "thud",
+    "word": "thud",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a low heavy sound",
+    "syllables": [
+      "thud"
+    ],
+    "sentence": "Let us say thud together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "this",
+    "word": "this",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a word for something nearby",
+    "syllables": [
+      "this"
+    ],
+    "sentence": "Let us say this together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "that",
+    "word": "that",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a word for something farther away",
+    "syllables": [
+      "that"
+    ],
+    "sentence": "Let us say that together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "them",
+    "word": "them",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a word for other people",
+    "syllables": [
+      "them"
+    ],
+    "sentence": "Let us say them together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "then",
+    "word": "then",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "at that time",
+    "syllables": [
+      "then"
+    ],
+    "sentence": "Let us say then together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "with",
+    "word": "with",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "together beside",
+    "syllables": [
+      "with"
+    ],
+    "sentence": "Let us say with together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bath",
+    "word": "bath",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🛁",
+    "meaning": "a wash in a tub",
+    "syllables": [
+      "bath"
+    ],
+    "sentence": "Let us say bath together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "moth",
+    "word": "moth",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🦋",
+    "meaning": "an insect like a butterfly",
+    "syllables": [
+      "moth"
+    ],
+    "sentence": "Let us say moth together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "path",
+    "word": "path",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a small walking way",
+    "syllables": [
+      "path"
+    ],
+    "sentence": "Let us say path together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "teeth",
+    "word": "teeth",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🦷",
+    "meaning": "the hard parts used for biting",
+    "syllables": [
+      "teeth"
+    ],
+    "sentence": "Let us say teeth together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "wheel",
+    "word": "wheel",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🛞",
+    "meaning": "a round thing that turns",
+    "syllables": [
+      "wheel"
+    ],
+    "sentence": "Let us say wheel together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "whale",
+    "word": "whale",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐋",
+    "meaning": "a very large sea mammal",
+    "syllables": [
+      "whale"
+    ],
+    "sentence": "Let us say whale together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "whip",
+    "word": "whip",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a long bending cord",
+    "syllables": [
+      "whip"
+    ],
+    "sentence": "Let us say whip together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "when",
+    "word": "when",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "at what time",
+    "syllables": [
+      "when"
+    ],
+    "sentence": "Let us say when together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "whisk",
+    "word": "whisk",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "a tool for mixing",
+    "syllables": [
+      "whisk"
+    ],
+    "sentence": "Let us say whisk together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "phone",
+    "word": "phone",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "☎️",
+    "meaning": "a device for talking far away",
+    "syllables": [
+      "phone"
+    ],
+    "sentence": "Let us say phone together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "photo",
+    "word": "photo",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🖼️",
+    "meaning": "a picture made by a camera",
+    "syllables": [
+      "pho",
+      "to"
+    ],
+    "sentence": "Let us say photo together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "duck",
+    "word": "duck",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🦆",
+    "meaning": "a water bird",
+    "syllables": [
+      "duck"
+    ],
+    "sentence": "Let us say duck together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sock",
+    "word": "sock",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🧦",
+    "meaning": "clothing for a foot",
+    "syllables": [
+      "sock"
+    ],
+    "sentence": "Let us say sock together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "neck",
+    "word": "neck",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "the part joining head and body",
+    "syllables": [
+      "neck"
+    ],
+    "sentence": "Let us say neck together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "ring",
+    "word": "ring",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "💍",
+    "meaning": "a round band",
+    "syllables": [
+      "ring"
+    ],
+    "sentence": "Let us say ring together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "king",
+    "word": "king",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🤴",
+    "meaning": "a royal leader",
+    "syllables": [
+      "king"
+    ],
+    "sentence": "Let us say king together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sing",
+    "word": "sing",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🎤",
+    "meaning": "to make music with your voice",
+    "syllables": [
+      "sing"
+    ],
+    "sentence": "Let us say sing together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "wing",
+    "word": "wing",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🪽",
+    "meaning": "a part used for flying",
+    "syllables": [
+      "wing"
+    ],
+    "sentence": "Let us say wing together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "song",
+    "word": "song",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🎵",
+    "meaning": "words set to music",
+    "syllables": [
+      "song"
+    ],
+    "sentence": "Let us say song together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "long",
+    "word": "long",
+    "pattern": "digraphs",
+    "level": 2,
+    "picture": "🐟",
+    "meaning": "having a great length",
+    "syllables": [
+      "long"
+    ],
+    "sentence": "Let us say long together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cake",
+    "word": "cake",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a sweet baked treat",
+    "syllables": [
+      "cake"
+    ],
+    "sentence": "Let us say cake together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "bake",
+    "word": "bake",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to cook in an oven",
+    "syllables": [
+      "bake"
+    ],
+    "sentence": "Let us say bake together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "lake",
+    "word": "lake",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🏞️",
+    "meaning": "a large area of water",
+    "syllables": [
+      "lake"
+    ],
+    "sentence": "Let us say lake together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "make",
+    "word": "make",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to create something",
+    "syllables": [
+      "make"
+    ],
+    "sentence": "Let us say make together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "take",
+    "word": "take",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to carry or receive",
+    "syllables": [
+      "take"
+    ],
+    "sentence": "Let us say take together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "rake",
+    "word": "rake",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🧑‍🌾",
+    "meaning": "a garden tool with teeth",
+    "syllables": [
+      "rake"
+    ],
+    "sentence": "Let us say rake together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "name",
+    "word": "name",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "what someone is called",
+    "syllables": [
+      "name"
+    ],
+    "sentence": "Let us say name together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "game",
+    "word": "game",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎮",
+    "meaning": "something played for fun",
+    "syllables": [
+      "game"
+    ],
+    "sentence": "Let us say game together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "same",
+    "word": "same",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "exactly alike",
+    "syllables": [
+      "same"
+    ],
+    "sentence": "Let us say same together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "came",
+    "word": "came",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "arrived before",
+    "syllables": [
+      "came"
+    ],
+    "sentence": "Let us say came together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "gate",
+    "word": "gate",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🚪",
+    "meaning": "a door in a fence",
+    "syllables": [
+      "gate"
+    ],
+    "sentence": "Let us say gate together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "late",
+    "word": "late",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "after the expected time",
+    "syllables": [
+      "late"
+    ],
+    "sentence": "Let us say late together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "date",
+    "word": "date",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a day on a calendar",
+    "syllables": [
+      "date"
+    ],
+    "sentence": "Let us say date together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "mate",
+    "word": "mate",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a friend or partner",
+    "syllables": [
+      "mate"
+    ],
+    "sentence": "Let us say mate together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "tape",
+    "word": "tape",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "📼",
+    "meaning": "a sticky strip",
+    "syllables": [
+      "tape"
+    ],
+    "sentence": "Let us say tape together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cape",
+    "word": "cape",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🦸",
+    "meaning": "a loose coat without sleeves",
+    "syllables": [
+      "cape"
+    ],
+    "sentence": "Let us say cape together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "shape",
+    "word": "shape",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "the outline of something",
+    "syllables": [
+      "shape"
+    ],
+    "sentence": "Let us say shape together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "safe",
+    "word": "safe",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "protected from harm",
+    "syllables": [
+      "safe"
+    ],
+    "sentence": "Let us say safe together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "wave",
+    "word": "wave",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "👋",
+    "meaning": "to move your hand in greeting",
+    "syllables": [
+      "wave"
+    ],
+    "sentence": "Let us say wave together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "save",
+    "word": "save",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to keep for later",
+    "syllables": [
+      "save"
+    ],
+    "sentence": "Let us say save together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cave",
+    "word": "cave",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "⛰️",
+    "meaning": "a natural hole in rock",
+    "syllables": [
+      "cave"
+    ],
+    "sentence": "Let us say cave together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "gave",
+    "word": "gave",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "handed over before",
+    "syllables": [
+      "gave"
+    ],
+    "sentence": "Let us say gave together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "pale",
+    "word": "pale",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "light in color",
+    "syllables": [
+      "pale"
+    ],
+    "sentence": "Let us say pale together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sale",
+    "word": "sale",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a time when things cost less",
+    "syllables": [
+      "sale"
+    ],
+    "sentence": "Let us say sale together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bike",
+    "word": "bike",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🚲",
+    "meaning": "a vehicle with two wheels",
+    "syllables": [
+      "bike"
+    ],
+    "sentence": "Let us say bike together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "like",
+    "word": "like",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to enjoy something",
+    "syllables": [
+      "like"
+    ],
+    "sentence": "Let us say like together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "hike",
+    "word": "hike",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a long walk",
+    "syllables": [
+      "hike"
+    ],
+    "sentence": "Let us say hike together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "kite",
+    "word": "kite",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🪁",
+    "meaning": "a toy flown on a string",
+    "syllables": [
+      "kite"
+    ],
+    "sentence": "Let us say kite together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "bite",
+    "word": "bite",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to use your teeth",
+    "syllables": [
+      "bite"
+    ],
+    "sentence": "Let us say bite together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "five",
+    "word": "five",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "5️⃣",
+    "meaning": "one more than four",
+    "syllables": [
+      "five"
+    ],
+    "sentence": "Let us say five together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "dive",
+    "word": "dive",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to jump into water",
+    "syllables": [
+      "dive"
+    ],
+    "sentence": "Let us say dive together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "hide",
+    "word": "hide",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to go out of sight",
+    "syllables": [
+      "hide"
+    ],
+    "sentence": "Let us say hide together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "ride",
+    "word": "ride",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "to travel on something",
+    "syllables": [
+      "ride"
+    ],
+    "sentence": "Let us say ride together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "side",
+    "word": "side",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "an edge or part",
+    "syllables": [
+      "side"
+    ],
+    "sentence": "Let us say side together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "wide",
+    "word": "wide",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "having a large width",
+    "syllables": [
+      "wide"
+    ],
+    "sentence": "Let us say wide together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "time",
+    "word": "time",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "what clocks measure",
+    "syllables": [
+      "time"
+    ],
+    "sentence": "Let us say time together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "lime",
+    "word": "lime",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🍋",
+    "meaning": "a sour green fruit",
+    "syllables": [
+      "lime"
+    ],
+    "sentence": "Let us say lime together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "line",
+    "word": "line",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a long thin mark",
+    "syllables": [
+      "line"
+    ],
+    "sentence": "Let us say line together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "nine",
+    "word": "nine",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "9️⃣",
+    "meaning": "one more than eight",
+    "syllables": [
+      "nine"
+    ],
+    "sentence": "Let us say nine together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pine",
+    "word": "pine",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🌲",
+    "meaning": "a tree with needles",
+    "syllables": [
+      "pine"
+    ],
+    "sentence": "Let us say pine together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "fine",
+    "word": "fine",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "good or well",
+    "syllables": [
+      "fine"
+    ],
+    "sentence": "Let us say fine together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "home",
+    "word": "home",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🏠",
+    "meaning": "the place where you live",
+    "syllables": [
+      "home"
+    ],
+    "sentence": "Let us say home together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "bone",
+    "word": "bone",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🦴",
+    "meaning": "a hard part inside your body",
+    "syllables": [
+      "bone"
+    ],
+    "sentence": "Let us say bone together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cone",
+    "word": "cone",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🍦",
+    "meaning": "a shape with a round base and pointed top",
+    "syllables": [
+      "cone"
+    ],
+    "sentence": "Let us say cone together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "nose",
+    "word": "nose",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "👃",
+    "meaning": "the part you smell with",
+    "syllables": [
+      "nose"
+    ],
+    "sentence": "Let us say nose together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "rose",
+    "word": "rose",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🌹",
+    "meaning": "a flower with soft petals",
+    "syllables": [
+      "rose"
+    ],
+    "sentence": "Let us say rose together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "rope",
+    "word": "rope",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🪢",
+    "meaning": "a thick strong cord",
+    "syllables": [
+      "rope"
+    ],
+    "sentence": "Let us say rope together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "hope",
+    "word": "hope",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a feeling that good things may happen",
+    "syllables": [
+      "hope"
+    ],
+    "sentence": "Let us say hope together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "note",
+    "word": "note",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "📝",
+    "meaning": "a short written message",
+    "syllables": [
+      "note"
+    ],
+    "sentence": "Let us say note together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cube",
+    "word": "cube",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🧊",
+    "meaning": "a shape with six square faces",
+    "syllables": [
+      "cube"
+    ],
+    "sentence": "Let us say cube together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "tube",
+    "word": "tube",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "a long hollow object",
+    "syllables": [
+      "tube"
+    ],
+    "sentence": "Let us say tube together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cute",
+    "word": "cute",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "small and lovely",
+    "syllables": [
+      "cute"
+    ],
+    "sentence": "Let us say cute together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "mule",
+    "word": "mule",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🫏",
+    "meaning": "an animal like a donkey",
+    "syllables": [
+      "mule"
+    ],
+    "sentence": "Let us say mule together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "huge",
+    "word": "huge",
+    "pattern": "silent-e",
+    "level": 3,
+    "picture": "🎂",
+    "meaning": "very large",
+    "syllables": [
+      "huge"
+    ],
+    "sentence": "Let us say huge together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "rain",
+    "word": "rain",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "water falling from clouds",
+    "syllables": [
+      "rain"
+    ],
+    "sentence": "Let us say rain together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pain",
+    "word": "pain",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "a feeling when something hurts",
+    "syllables": [
+      "pain"
+    ],
+    "sentence": "Let us say pain together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "main",
+    "word": "main",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "the most important",
+    "syllables": [
+      "main"
+    ],
+    "sentence": "Let us say main together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "tail",
+    "word": "tail",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🐕",
+    "meaning": "the back part of an animal",
+    "syllables": [
+      "tail"
+    ],
+    "sentence": "Let us say tail together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "mail",
+    "word": "mail",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "✉️",
+    "meaning": "letters sent to people",
+    "syllables": [
+      "mail"
+    ],
+    "sentence": "Let us say mail together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sail",
+    "word": "sail",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "⛵",
+    "meaning": "a cloth that catches wind",
+    "syllables": [
+      "sail"
+    ],
+    "sentence": "Let us say sail together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "nail",
+    "word": "nail",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "💅",
+    "meaning": "a hard cover on a fingertip",
+    "syllables": [
+      "nail"
+    ],
+    "sentence": "Let us say nail together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "paid",
+    "word": "paid",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "gave money before",
+    "syllables": [
+      "paid"
+    ],
+    "sentence": "Let us say paid together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "wait",
+    "word": "wait",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to stay until later",
+    "syllables": [
+      "wait"
+    ],
+    "sentence": "Let us say wait together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "paint",
+    "word": "paint",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🎨",
+    "meaning": "colored liquid for pictures",
+    "syllables": [
+      "paint"
+    ],
+    "sentence": "Let us say paint together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "day",
+    "word": "day",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌞",
+    "meaning": "the time when the sun is up",
+    "syllables": [
+      "day"
+    ],
+    "sentence": "Let us say day together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "say",
+    "word": "say",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to speak words",
+    "syllables": [
+      "say"
+    ],
+    "sentence": "Let us say say together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "play",
+    "word": "play",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to do something for fun",
+    "syllables": [
+      "play"
+    ],
+    "sentence": "Let us say play together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "stay",
+    "word": "stay",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to remain in a place",
+    "syllables": [
+      "stay"
+    ],
+    "sentence": "Let us say stay together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "way",
+    "word": "way",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "a route to a place",
+    "syllables": [
+      "way"
+    ],
+    "sentence": "Let us say way together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "hay",
+    "word": "hay",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌾",
+    "meaning": "dried grass",
+    "syllables": [
+      "hay"
+    ],
+    "sentence": "Let us say hay together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "tray",
+    "word": "tray",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🍽️",
+    "meaning": "a flat thing used to carry dishes",
+    "syllables": [
+      "tray"
+    ],
+    "sentence": "Let us say tray together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "clay",
+    "word": "clay",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "soft earth used for pots",
+    "syllables": [
+      "clay"
+    ],
+    "sentence": "Let us say clay together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bee",
+    "word": "bee",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🐝",
+    "meaning": "an insect that makes honey",
+    "syllables": [
+      "bee"
+    ],
+    "sentence": "Let us say bee together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "see",
+    "word": "see",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to use your eyes",
+    "syllables": [
+      "see"
+    ],
+    "sentence": "Let us say see together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "tree",
+    "word": "tree",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌳",
+    "meaning": "a tall plant with a trunk",
+    "syllables": [
+      "tree"
+    ],
+    "sentence": "Let us say tree together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "free",
+    "word": "free",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "not held or trapped",
+    "syllables": [
+      "free"
+    ],
+    "sentence": "Let us say free together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "feet",
+    "word": "feet",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🦶",
+    "meaning": "the parts you stand on",
+    "syllables": [
+      "feet"
+    ],
+    "sentence": "Let us say feet together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "meet",
+    "word": "meet",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to come together",
+    "syllables": [
+      "meet"
+    ],
+    "sentence": "Let us say meet together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "seed",
+    "word": "seed",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌱",
+    "meaning": "a tiny part that can grow into a plant",
+    "syllables": [
+      "seed"
+    ],
+    "sentence": "Let us say seed together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "need",
+    "word": "need",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to require something",
+    "syllables": [
+      "need"
+    ],
+    "sentence": "Let us say need together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "deep",
+    "word": "deep",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "far down",
+    "syllables": [
+      "deep"
+    ],
+    "sentence": "Let us say deep together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "keep",
+    "word": "keep",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to hold on to",
+    "syllables": [
+      "keep"
+    ],
+    "sentence": "Let us say keep together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "week",
+    "word": "week",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "seven days",
+    "syllables": [
+      "week"
+    ],
+    "sentence": "Let us say week together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cheek",
+    "word": "cheek",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "😊",
+    "meaning": "the side of your face",
+    "syllables": [
+      "cheek"
+    ],
+    "sentence": "Let us say cheek together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sea",
+    "word": "sea",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌊",
+    "meaning": "a large area of salty water",
+    "syllables": [
+      "sea"
+    ],
+    "sentence": "Let us say sea together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "tea",
+    "word": "tea",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🍵",
+    "meaning": "a drink made with leaves",
+    "syllables": [
+      "tea"
+    ],
+    "sentence": "Let us say tea together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pea",
+    "word": "pea",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🟢",
+    "meaning": "a small round green seed",
+    "syllables": [
+      "pea"
+    ],
+    "sentence": "Let us say pea together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "eat",
+    "word": "eat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to take food into your mouth",
+    "syllables": [
+      "eat"
+    ],
+    "sentence": "Let us say eat together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "seat",
+    "word": "seat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🪑",
+    "meaning": "a place to sit",
+    "syllables": [
+      "seat"
+    ],
+    "sentence": "Let us say seat together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "beat",
+    "word": "beat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "a steady tapping sound",
+    "syllables": [
+      "beat"
+    ],
+    "sentence": "Let us say beat together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "heat",
+    "word": "heat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "warmth",
+    "syllables": [
+      "heat"
+    ],
+    "sentence": "Let us say heat together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "leaf",
+    "word": "leaf",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🍃",
+    "meaning": "a flat green plant part",
+    "syllables": [
+      "leaf"
+    ],
+    "sentence": "Let us say leaf together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "team",
+    "word": "team",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🤝",
+    "meaning": "a group working together",
+    "syllables": [
+      "team"
+    ],
+    "sentence": "Let us say team together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "read",
+    "word": "read",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to understand written words",
+    "syllables": [
+      "read"
+    ],
+    "sentence": "Let us say read together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "boat",
+    "word": "boat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "⛵",
+    "meaning": "a vehicle that floats",
+    "syllables": [
+      "boat"
+    ],
+    "sentence": "Let us say boat together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "coat",
+    "word": "coat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🧥",
+    "meaning": "warm outer clothing",
+    "syllables": [
+      "coat"
+    ],
+    "sentence": "Let us say coat together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "goat",
+    "word": "goat",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🐐",
+    "meaning": "a farm animal with horns",
+    "syllables": [
+      "goat"
+    ],
+    "sentence": "Let us say goat together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "road",
+    "word": "road",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🛣️",
+    "meaning": "a path for vehicles",
+    "syllables": [
+      "road"
+    ],
+    "sentence": "Let us say road together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "toad",
+    "word": "toad",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🐸",
+    "meaning": "an animal like a frog",
+    "syllables": [
+      "toad"
+    ],
+    "sentence": "Let us say toad together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "soap",
+    "word": "soap",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🧼",
+    "meaning": "something used for washing",
+    "syllables": [
+      "soap"
+    ],
+    "sentence": "Let us say soap together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "foam",
+    "word": "foam",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "tiny bubbles together",
+    "syllables": [
+      "foam"
+    ],
+    "sentence": "Let us say foam together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "toast",
+    "word": "toast",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🍞",
+    "meaning": "bread browned by heat",
+    "syllables": [
+      "toast"
+    ],
+    "sentence": "Let us say toast together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "float",
+    "word": "float",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to stay on top of water",
+    "syllables": [
+      "float"
+    ],
+    "sentence": "Let us say float together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "oak",
+    "word": "oak",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌳",
+    "meaning": "a tree that grows acorns",
+    "syllables": [
+      "oak"
+    ],
+    "sentence": "Let us say oak together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "moon",
+    "word": "moon",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌙",
+    "meaning": "the round object seen at night",
+    "syllables": [
+      "moon"
+    ],
+    "sentence": "Let us say moon together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "food",
+    "word": "food",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🍲",
+    "meaning": "things we eat",
+    "syllables": [
+      "food"
+    ],
+    "sentence": "Let us say food together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pool",
+    "word": "pool",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🏊",
+    "meaning": "a place for swimming",
+    "syllables": [
+      "pool"
+    ],
+    "sentence": "Let us say pool together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "room",
+    "word": "room",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🛋️",
+    "meaning": "a space inside a building",
+    "syllables": [
+      "room"
+    ],
+    "sentence": "Let us say room together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "boot",
+    "word": "boot",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🥾",
+    "meaning": "a shoe that covers the ankle",
+    "syllables": [
+      "boot"
+    ],
+    "sentence": "Let us say boot together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "roof",
+    "word": "roof",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🏠",
+    "meaning": "the top cover of a building",
+    "syllables": [
+      "roof"
+    ],
+    "sentence": "Let us say roof together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "zoo",
+    "word": "zoo",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🦁",
+    "meaning": "a place to see animals",
+    "syllables": [
+      "zoo"
+    ],
+    "sentence": "Let us say zoo together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "book",
+    "word": "book",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "📚",
+    "meaning": "pages bound together",
+    "syllables": [
+      "book"
+    ],
+    "sentence": "Let us say book together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "look",
+    "word": "look",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "to turn your eyes toward something",
+    "syllables": [
+      "look"
+    ],
+    "sentence": "Let us say look together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cook",
+    "word": "cook",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🧑‍🍳",
+    "meaning": "to prepare food with heat",
+    "syllables": [
+      "cook"
+    ],
+    "sentence": "Let us say cook together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "foot",
+    "word": "foot",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🦶",
+    "meaning": "the part at the end of your leg",
+    "syllables": [
+      "foot"
+    ],
+    "sentence": "Let us say foot together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "wood",
+    "word": "wood",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🪵",
+    "meaning": "the material of a tree",
+    "syllables": [
+      "wood"
+    ],
+    "sentence": "Let us say wood together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "good",
+    "word": "good",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "kind or helpful",
+    "syllables": [
+      "good"
+    ],
+    "sentence": "Let us say good together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "coin",
+    "word": "coin",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🪙",
+    "meaning": "a round piece of money",
+    "syllables": [
+      "coin"
+    ],
+    "sentence": "Let us say coin together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "oil",
+    "word": "oil",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🫗",
+    "meaning": "a thick liquid",
+    "syllables": [
+      "oil"
+    ],
+    "sentence": "Let us say oil together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "soil",
+    "word": "soil",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️",
+    "meaning": "earth where plants grow",
+    "syllables": [
+      "soil"
+    ],
+    "sentence": "Let us say soil together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "toy",
+    "word": "toy",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "🧸",
+    "meaning": "a thing for playing",
+    "syllables": [
+      "toy"
+    ],
+    "sentence": "Let us say toy together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "boy",
+    "word": "boy",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "👦",
+    "meaning": "a young male child",
+    "syllables": [
+      "boy"
+    ],
+    "sentence": "Let us say boy together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "joy",
+    "word": "joy",
+    "pattern": "vowel-teams",
+    "level": 3,
+    "picture": "😊",
+    "meaning": "a happy feeling",
+    "syllables": [
+      "joy"
+    ],
+    "sentence": "Let us say joy together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "car",
+    "word": "car",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🚗",
+    "meaning": "a vehicle with four wheels",
+    "syllables": [
+      "car"
+    ],
+    "sentence": "Let us say car together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "far",
+    "word": "far",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "a long way away",
+    "syllables": [
+      "far"
+    ],
+    "sentence": "Let us say far together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "jar",
+    "word": "jar",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🫙",
+    "meaning": "a wide container with a lid",
+    "syllables": [
+      "jar"
+    ],
+    "sentence": "Let us say jar together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "bar",
+    "word": "bar",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "a long solid piece",
+    "syllables": [
+      "bar"
+    ],
+    "sentence": "Let us say bar together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "farm",
+    "word": "farm",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🚜",
+    "meaning": "a place that grows food",
+    "syllables": [
+      "farm"
+    ],
+    "sentence": "Let us say farm together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "park",
+    "word": "park",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🏞️",
+    "meaning": "a green place to play",
+    "syllables": [
+      "park"
+    ],
+    "sentence": "Let us say park together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "dark",
+    "word": "dark",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "with little light",
+    "syllables": [
+      "dark"
+    ],
+    "sentence": "Let us say dark together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bark",
+    "word": "bark",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "the sound a dog makes",
+    "syllables": [
+      "bark"
+    ],
+    "sentence": "Let us say bark together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "arm",
+    "word": "arm",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "the body part between shoulder and hand",
+    "syllables": [
+      "arm"
+    ],
+    "sentence": "Let us say arm together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "hard",
+    "word": "hard",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "not soft",
+    "syllables": [
+      "hard"
+    ],
+    "sentence": "Let us say hard together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "card",
+    "word": "card",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "💌",
+    "meaning": "a small piece of thick paper",
+    "syllables": [
+      "card"
+    ],
+    "sentence": "Let us say card together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cart",
+    "word": "cart",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🛒",
+    "meaning": "a small wheeled carrier",
+    "syllables": [
+      "cart"
+    ],
+    "sentence": "Let us say cart together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "art",
+    "word": "art",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🎨",
+    "meaning": "making pictures or beautiful things",
+    "syllables": [
+      "art"
+    ],
+    "sentence": "Let us say art together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "corn",
+    "word": "corn",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🌽",
+    "meaning": "yellow grains on a cob",
+    "syllables": [
+      "corn"
+    ],
+    "sentence": "Let us say corn together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "fork",
+    "word": "fork",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🍴",
+    "meaning": "a tool with points for eating",
+    "syllables": [
+      "fork"
+    ],
+    "sentence": "Let us say fork together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "horn",
+    "word": "horn",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🦏",
+    "meaning": "a hard pointed part on an animal",
+    "syllables": [
+      "horn"
+    ],
+    "sentence": "Let us say horn together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "born",
+    "word": "born",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "coming into life",
+    "syllables": [
+      "born"
+    ],
+    "sentence": "Let us say born together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "torn",
+    "word": "torn",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "ripped apart",
+    "syllables": [
+      "torn"
+    ],
+    "sentence": "Let us say torn together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "short",
+    "word": "short",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "not long",
+    "syllables": [
+      "short"
+    ],
+    "sentence": "Let us say short together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "storm",
+    "word": "storm",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "⛈️",
+    "meaning": "strong wind and rain",
+    "syllables": [
+      "storm"
+    ],
+    "sentence": "Let us say storm together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "horse",
+    "word": "horse",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐎",
+    "meaning": "a large riding animal",
+    "syllables": [
+      "horse"
+    ],
+    "sentence": "Let us say horse together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sport",
+    "word": "sport",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "a game with movement",
+    "syllables": [
+      "sport"
+    ],
+    "sentence": "Let us say sport together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "porch",
+    "word": "porch",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "a covered space outside a door",
+    "syllables": [
+      "porch"
+    ],
+    "sentence": "Let us say porch together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bird",
+    "word": "bird",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "an animal with feathers",
+    "syllables": [
+      "bird"
+    ],
+    "sentence": "Let us say bird together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "girl",
+    "word": "girl",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "👧",
+    "meaning": "a young female child",
+    "syllables": [
+      "girl"
+    ],
+    "sentence": "Let us say girl together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "shirt",
+    "word": "shirt",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "👕",
+    "meaning": "clothing for the upper body",
+    "syllables": [
+      "shirt"
+    ],
+    "sentence": "Let us say shirt together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "skirt",
+    "word": "skirt",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "👗",
+    "meaning": "clothing that hangs from the waist",
+    "syllables": [
+      "skirt"
+    ],
+    "sentence": "Let us say skirt together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "dirt",
+    "word": "dirt",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "loose earth",
+    "syllables": [
+      "dirt"
+    ],
+    "sentence": "Let us say dirt together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "first",
+    "word": "first",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "before all the others",
+    "syllables": [
+      "first"
+    ],
+    "sentence": "Let us say first together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "third",
+    "word": "third",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "after second",
+    "syllables": [
+      "third"
+    ],
+    "sentence": "Let us say third together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "stir",
+    "word": "stir",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "to move liquid around",
+    "syllables": [
+      "stir"
+    ],
+    "sentence": "Let us say stir together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "her",
+    "word": "her",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "belonging to a girl or woman",
+    "syllables": [
+      "her"
+    ],
+    "sentence": "Let us say her together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "fern",
+    "word": "fern",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🌿",
+    "meaning": "a leafy green plant",
+    "syllables": [
+      "fern"
+    ],
+    "sentence": "Let us say fern together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "term",
+    "word": "term",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "a part of a school year",
+    "syllables": [
+      "term"
+    ],
+    "sentence": "Let us say term together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "fur",
+    "word": "fur",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "soft animal hair",
+    "syllables": [
+      "fur"
+    ],
+    "sentence": "Let us say fur together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "turn",
+    "word": "turn",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "to change direction",
+    "syllables": [
+      "turn"
+    ],
+    "sentence": "Let us say turn together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "burn",
+    "word": "burn",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "to damage with heat",
+    "syllables": [
+      "burn"
+    ],
+    "sentence": "Let us say burn together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "hurt",
+    "word": "hurt",
+    "pattern": "r-controlled",
+    "level": 3,
+    "picture": "🐦",
+    "meaning": "to feel pain",
+    "syllables": [
+      "hurt"
+    ],
+    "sentence": "Let us say hurt together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "cow",
+    "word": "cow",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🐄",
+    "meaning": "a farm animal that gives milk",
+    "syllables": [
+      "cow"
+    ],
+    "sentence": "Let us say cow together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "now",
+    "word": "now",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "at this moment",
+    "syllables": [
+      "now"
+    ],
+    "sentence": "Let us say now together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "how",
+    "word": "how",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "in what way",
+    "syllables": [
+      "how"
+    ],
+    "sentence": "Let us say how together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bow",
+    "word": "bow",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "to bend your head forward",
+    "syllables": [
+      "bow"
+    ],
+    "sentence": "Let us say bow together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "owl",
+    "word": "owl",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "a bird that hunts at night",
+    "syllables": [
+      "owl"
+    ],
+    "sentence": "Let us say owl together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "town",
+    "word": "town",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🏘️",
+    "meaning": "a place where many people live",
+    "syllables": [
+      "town"
+    ],
+    "sentence": "Let us say town together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "down",
+    "word": "down",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "toward a lower place",
+    "syllables": [
+      "down"
+    ],
+    "sentence": "Let us say down together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "brown",
+    "word": "brown",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🟤",
+    "meaning": "a color like chocolate",
+    "syllables": [
+      "brown"
+    ],
+    "sentence": "Let us say brown together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "crown",
+    "word": "crown",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "👑",
+    "meaning": "a special hat for a royal person",
+    "syllables": [
+      "crown"
+    ],
+    "sentence": "Let us say crown together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "clown",
+    "word": "clown",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🤡",
+    "meaning": "a funny performer",
+    "syllables": [
+      "clown"
+    ],
+    "sentence": "Let us say clown together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "out",
+    "word": "out",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "away from inside",
+    "syllables": [
+      "out"
+    ],
+    "sentence": "Let us say out together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "shout",
+    "word": "shout",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "to speak loudly",
+    "syllables": [
+      "shout"
+    ],
+    "sentence": "Let us say shout together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "house",
+    "word": "house",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🏠",
+    "meaning": "a building where people live",
+    "syllables": [
+      "house"
+    ],
+    "sentence": "Let us say house together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "mouse",
+    "word": "mouse",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🐁",
+    "meaning": "a small animal with a thin tail",
+    "syllables": [
+      "mouse"
+    ],
+    "sentence": "Let us say mouse together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "mouth",
+    "word": "mouth",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "👄",
+    "meaning": "the part used to eat and speak",
+    "syllables": [
+      "mouth"
+    ],
+    "sentence": "Let us say mouth together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "round",
+    "word": "round",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "shaped like a circle",
+    "syllables": [
+      "round"
+    ],
+    "sentence": "Let us say round together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sound",
+    "word": "sound",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "something you hear",
+    "syllables": [
+      "sound"
+    ],
+    "sentence": "Let us say sound together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "found",
+    "word": "found",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "discovered something",
+    "syllables": [
+      "found"
+    ],
+    "sentence": "Let us say found together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "ground",
+    "word": "ground",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "the surface under your feet",
+    "syllables": [
+      "ground"
+    ],
+    "sentence": "Let us say ground together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "light",
+    "word": "light",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "💡",
+    "meaning": "something that helps you see",
+    "syllables": [
+      "light"
+    ],
+    "sentence": "Let us say light together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "night",
+    "word": "night",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🌃",
+    "meaning": "the dark part of a day",
+    "syllables": [
+      "night"
+    ],
+    "sentence": "Let us say night together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "right",
+    "word": "right",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "the opposite of left",
+    "syllables": [
+      "right"
+    ],
+    "sentence": "Let us say right together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "bright",
+    "word": "bright",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "full of light",
+    "syllables": [
+      "bright"
+    ],
+    "sentence": "Let us say bright together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sight",
+    "word": "sight",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "the ability to see",
+    "syllables": [
+      "sight"
+    ],
+    "sentence": "Let us say sight together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "high",
+    "word": "high",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "far above the ground",
+    "syllables": [
+      "high"
+    ],
+    "sentence": "Let us say high together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "sigh",
+    "word": "sigh",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "a long breath",
+    "syllables": [
+      "sigh"
+    ],
+    "sentence": "Let us say sigh together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "fly",
+    "word": "fly",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🪰",
+    "meaning": "to move through the air",
+    "syllables": [
+      "fly"
+    ],
+    "sentence": "Let us say fly together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sky",
+    "word": "sky",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🌌",
+    "meaning": "the space above Earth",
+    "syllables": [
+      "sky"
+    ],
+    "sentence": "Let us say sky together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "cry",
+    "word": "cry",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "😢",
+    "meaning": "to make tears",
+    "syllables": [
+      "cry"
+    ],
+    "sentence": "Let us say cry together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "my",
+    "word": "my",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "belonging to me",
+    "syllables": [
+      "my"
+    ],
+    "sentence": "Let us say my together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "try",
+    "word": "try",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "to make an effort",
+    "syllables": [
+      "try"
+    ],
+    "sentence": "Let us say try together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "dry",
+    "word": "dry",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "not wet",
+    "syllables": [
+      "dry"
+    ],
+    "sentence": "Let us say dry together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "by",
+    "word": "by",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "near or beside",
+    "syllables": [
+      "by"
+    ],
+    "sentence": "Let us say by together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "why",
+    "word": "why",
+    "pattern": "diphthongs",
+    "level": 4,
+    "picture": "🦉",
+    "meaning": "a word asking for a reason",
+    "syllables": [
+      "why"
+    ],
+    "sentence": "Let us say why together.",
+    "pictureChoice": false,
+    "soundOut": false
+  },
+  {
+    "id": "rabbit",
+    "word": "rabbit",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐇",
+    "meaning": "an animal with long ears",
+    "syllables": [
+      "rab",
+      "bit"
+    ],
+    "sentence": "Let us say rabbit together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "garden",
+    "word": "garden",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌷",
+    "meaning": "a place where plants grow",
+    "syllables": [
+      "gar",
+      "den"
+    ],
+    "sentence": "Let us say garden together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sunset",
+    "word": "sunset",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌇",
+    "meaning": "when the sun goes down",
+    "syllables": [
+      "sun",
+      "set"
+    ],
+    "sentence": "Let us say sunset together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sunshine",
+    "word": "sunshine",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌞",
+    "meaning": "warm light from the sun",
+    "syllables": [
+      "sun",
+      "shine"
+    ],
+    "sentence": "Let us say sunshine together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "butterfly",
+    "word": "butterfly",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🦋",
+    "meaning": "an insect with colorful wings",
+    "syllables": [
+      "but",
+      "ter",
+      "fly"
+    ],
+    "sentence": "Let us say butterfly together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "apple",
+    "word": "apple",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🍎",
+    "meaning": "a crunchy round fruit",
+    "syllables": [
+      "ap",
+      "ple"
+    ],
+    "sentence": "Let us say apple together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "happy",
+    "word": "happy",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "😊",
+    "meaning": "feeling glad",
+    "syllables": [
+      "hap",
+      "py"
+    ],
+    "sentence": "Let us say happy together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "little",
+    "word": "little",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌱",
+    "meaning": "small in size",
+    "syllables": [
+      "lit",
+      "tle"
+    ],
+    "sentence": "Let us say little together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "yellow",
+    "word": "yellow",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🟡",
+    "meaning": "a color like a banana",
+    "syllables": [
+      "yel",
+      "low"
+    ],
+    "sentence": "Let us say yellow together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "window",
+    "word": "window",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🪟",
+    "meaning": "glass you can look through",
+    "syllables": [
+      "win",
+      "dow"
+    ],
+    "sentence": "Let us say window together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pencil",
+    "word": "pencil",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "✏️",
+    "meaning": "a tool used for writing",
+    "syllables": [
+      "pen",
+      "cil"
+    ],
+    "sentence": "Let us say pencil together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "paper",
+    "word": "paper",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "📄",
+    "meaning": "a thin sheet to write on",
+    "syllables": [
+      "pa",
+      "per"
+    ],
+    "sentence": "Let us say paper together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "water",
+    "word": "water",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "💧",
+    "meaning": "a clear liquid we drink",
+    "syllables": [
+      "wa",
+      "ter"
+    ],
+    "sentence": "Let us say water together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "flower",
+    "word": "flower",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌸",
+    "meaning": "the colorful part of a plant",
+    "syllables": [
+      "flow",
+      "er"
+    ],
+    "sentence": "Let us say flower together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "mother",
+    "word": "mother",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👩",
+    "meaning": "a female parent",
+    "syllables": [
+      "moth",
+      "er"
+    ],
+    "sentence": "Let us say mother together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "father",
+    "word": "father",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👨",
+    "meaning": "a male parent",
+    "syllables": [
+      "fa",
+      "ther"
+    ],
+    "sentence": "Let us say father together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "sister",
+    "word": "sister",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👧",
+    "meaning": "a girl with the same parents",
+    "syllables": [
+      "sis",
+      "ter"
+    ],
+    "sentence": "Let us say sister together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "brother",
+    "word": "brother",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👦",
+    "meaning": "a boy with the same parents",
+    "syllables": [
+      "broth",
+      "er"
+    ],
+    "sentence": "Let us say brother together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "teacher",
+    "word": "teacher",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🧑‍🏫",
+    "meaning": "a person who helps you learn",
+    "syllables": [
+      "teach",
+      "er"
+    ],
+    "sentence": "Let us say teacher together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "school",
+    "word": "school",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🏫",
+    "meaning": "a place for learning",
+    "syllables": [
+      "school"
+    ],
+    "sentence": "Let us say school together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "children",
+    "word": "children",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🧒",
+    "meaning": "young people",
+    "syllables": [
+      "chil",
+      "dren"
+    ],
+    "sentence": "Let us say children together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "family",
+    "word": "family",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👨‍👩‍👧",
+    "meaning": "people who care for one another",
+    "syllables": [
+      "fam",
+      "i",
+      "ly"
+    ],
+    "sentence": "Let us say family together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "kitten",
+    "word": "kitten",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐱",
+    "meaning": "a baby cat",
+    "syllables": [
+      "kit",
+      "ten"
+    ],
+    "sentence": "Let us say kitten together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "puppy",
+    "word": "puppy",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐶",
+    "meaning": "a baby dog",
+    "syllables": [
+      "pup",
+      "py"
+    ],
+    "sentence": "Let us say puppy together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "tiger",
+    "word": "tiger",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐅",
+    "meaning": "a large cat with stripes",
+    "syllables": [
+      "ti",
+      "ger"
+    ],
+    "sentence": "Let us say tiger together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "lion",
+    "word": "lion",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🦁",
+    "meaning": "a large cat with a mane",
+    "syllables": [
+      "li",
+      "on"
+    ],
+    "sentence": "Let us say lion together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "elephant",
+    "word": "elephant",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐘",
+    "meaning": "a huge animal with a trunk",
+    "syllables": [
+      "el",
+      "e",
+      "phant"
+    ],
+    "sentence": "Let us say elephant together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "monkey",
+    "word": "monkey",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐒",
+    "meaning": "an animal that climbs trees",
+    "syllables": [
+      "mon",
+      "key"
+    ],
+    "sentence": "Let us say monkey together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "zebra",
+    "word": "zebra",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🦓",
+    "meaning": "an animal with black and white stripes",
+    "syllables": [
+      "ze",
+      "bra"
+    ],
+    "sentence": "Let us say zebra together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "camel",
+    "word": "camel",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐪",
+    "meaning": "an animal with humps",
+    "syllables": [
+      "cam",
+      "el"
+    ],
+    "sentence": "Let us say camel together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "turtle",
+    "word": "turtle",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐢",
+    "meaning": "an animal with a hard shell",
+    "syllables": [
+      "tur",
+      "tle"
+    ],
+    "sentence": "Let us say turtle together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "parrot",
+    "word": "parrot",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🦜",
+    "meaning": "a colorful bird",
+    "syllables": [
+      "par",
+      "rot"
+    ],
+    "sentence": "Let us say parrot together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "robin",
+    "word": "robin",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐦",
+    "meaning": "a small bird with a red breast",
+    "syllables": [
+      "rob",
+      "in"
+    ],
+    "sentence": "Let us say robin together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "spider",
+    "word": "spider",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🕷️",
+    "meaning": "a small animal with eight legs",
+    "syllables": [
+      "spi",
+      "der"
+    ],
+    "sentence": "Let us say spider together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "insect",
+    "word": "insect",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🐞",
+    "meaning": "a small animal with six legs",
+    "syllables": [
+      "in",
+      "sect"
+    ],
+    "sentence": "Let us say insect together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "basket",
+    "word": "basket",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🧺",
+    "meaning": "a container woven from strips",
+    "syllables": [
+      "bas",
+      "ket"
+    ],
+    "sentence": "Let us say basket together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "button",
+    "word": "button",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🔘",
+    "meaning": "a small clothing fastener",
+    "syllables": [
+      "but",
+      "ton"
+    ],
+    "sentence": "Let us say button together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pocket",
+    "word": "pocket",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "👖",
+    "meaning": "a small bag sewn into clothes",
+    "syllables": [
+      "pock",
+      "et"
+    ],
+    "sentence": "Let us say pocket together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "blanket",
+    "word": "blanket",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🛏️",
+    "meaning": "a warm cover for sleeping",
+    "syllables": [
+      "blan",
+      "ket"
+    ],
+    "sentence": "Let us say blanket together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "pillow",
+    "word": "pillow",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🛏️",
+    "meaning": "a soft cushion for your head",
+    "syllables": [
+      "pil",
+      "low"
+    ],
+    "sentence": "Let us say pillow together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "morning",
+    "word": "morning",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌅",
+    "meaning": "the first part of the day",
+    "syllables": [
+      "morn",
+      "ing"
+    ],
+    "sentence": "Let us say morning together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "evening",
+    "word": "evening",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌆",
+    "meaning": "the end part of the day",
+    "syllables": [
+      "eve",
+      "ning"
+    ],
+    "sentence": "Let us say evening together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "winter",
+    "word": "winter",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "⛄",
+    "meaning": "the coldest season",
+    "syllables": [
+      "win",
+      "ter"
+    ],
+    "sentence": "Let us say winter together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "summer",
+    "word": "summer",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌞",
+    "meaning": "the warmest season",
+    "syllables": [
+      "sum",
+      "mer"
+    ],
+    "sentence": "Let us say summer together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "rainbow",
+    "word": "rainbow",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🌈",
+    "meaning": "a colorful arc after rain",
+    "syllables": [
+      "rain",
+      "bow"
+    ],
+    "sentence": "Let us say rainbow together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "thunder",
+    "word": "thunder",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "⚡",
+    "meaning": "a loud storm sound",
+    "syllables": [
+      "thun",
+      "der"
+    ],
+    "sentence": "Let us say thunder together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "music",
+    "word": "music",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🎵",
+    "meaning": "sounds put together to enjoy",
+    "syllables": [
+      "mu",
+      "sic"
+    ],
+    "sentence": "Let us say music together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "story",
+    "word": "story",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "📖",
+    "meaning": "a tale about people or events",
+    "syllables": [
+      "sto",
+      "ry"
+    ],
+    "sentence": "Let us say story together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "number",
+    "word": "number",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🔢",
+    "meaning": "a symbol for an amount",
+    "syllables": [
+      "num",
+      "ber"
+    ],
+    "sentence": "Let us say number together.",
+    "pictureChoice": true,
+    "soundOut": false
+  },
+  {
+    "id": "letter",
+    "word": "letter",
+    "pattern": "longer-words",
+    "level": 4,
+    "picture": "🔤",
+    "meaning": "a symbol used to write words",
+    "syllables": [
+      "let",
+      "ter"
+    ],
+    "sentence": "Let us say letter together.",
+    "pictureChoice": true,
+    "soundOut": false
+  }
+]

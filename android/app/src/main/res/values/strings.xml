@@ -1,0 +1,4 @@
+<resources>
+    <string name="heard_transcript">💬 %1$s</string>
+    <string name="spoken_prompt">🔊 %1$s</string>
+</resources>

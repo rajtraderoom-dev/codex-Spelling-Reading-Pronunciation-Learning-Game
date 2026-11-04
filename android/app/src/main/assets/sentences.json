@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "s1",
+    "text": "The cat is on the mat.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a mat.",
+    "phrases": [
+      "The cat",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s2",
+    "text": "The cat is on the bed.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a bed.",
+    "phrases": [
+      "The cat",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s3",
+    "text": "The cat is on the rug.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a rug.",
+    "phrases": [
+      "The cat",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s4",
+    "text": "The cat is on the log.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a log.",
+    "phrases": [
+      "The cat",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s5",
+    "text": "The cat is on the box.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a box.",
+    "phrases": [
+      "The cat",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s6",
+    "text": "The cat is on the grass.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "Look! A cat rests on a grass.",
+    "phrases": [
+      "The cat",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s7",
+    "text": "The dog is on the mat.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a mat.",
+    "phrases": [
+      "The dog",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s8",
+    "text": "The dog is on the bed.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a bed.",
+    "phrases": [
+      "The dog",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s9",
+    "text": "The dog is on the rug.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a rug.",
+    "phrases": [
+      "The dog",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s10",
+    "text": "The dog is on the log.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a log.",
+    "phrases": [
+      "The dog",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s11",
+    "text": "The dog is on the box.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a box.",
+    "phrases": [
+      "The dog",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s12",
+    "text": "The dog is on the grass.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "Look! A dog rests on a grass.",
+    "phrases": [
+      "The dog",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s13",
+    "text": "The hen is on the mat.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a mat.",
+    "phrases": [
+      "The hen",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s14",
+    "text": "The hen is on the bed.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a bed.",
+    "phrases": [
+      "The hen",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s15",
+    "text": "The hen is on the rug.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a rug.",
+    "phrases": [
+      "The hen",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s16",
+    "text": "The hen is on the log.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a log.",
+    "phrases": [
+      "The hen",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s17",
+    "text": "The hen is on the box.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a box.",
+    "phrases": [
+      "The hen",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s18",
+    "text": "The hen is on the grass.",
+    "pattern": "short-e",
+    "picture": "🐔",
+    "meaning": "Look! A hen rests on a grass.",
+    "phrases": [
+      "The hen",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s19",
+    "text": "The pig is on the mat.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a mat.",
+    "phrases": [
+      "The pig",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s20",
+    "text": "The pig is on the bed.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a bed.",
+    "phrases": [
+      "The pig",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s21",
+    "text": "The pig is on the rug.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a rug.",
+    "phrases": [
+      "The pig",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s22",
+    "text": "The pig is on the log.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a log.",
+    "phrases": [
+      "The pig",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s23",
+    "text": "The pig is on the box.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a box.",
+    "phrases": [
+      "The pig",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s24",
+    "text": "The pig is on the grass.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "Look! A pig rests on a grass.",
+    "phrases": [
+      "The pig",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s25",
+    "text": "The fox is on the mat.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a mat.",
+    "phrases": [
+      "The fox",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s26",
+    "text": "The fox is on the bed.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a bed.",
+    "phrases": [
+      "The fox",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s27",
+    "text": "The fox is on the rug.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a rug.",
+    "phrases": [
+      "The fox",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s28",
+    "text": "The fox is on the log.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a log.",
+    "phrases": [
+      "The fox",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s29",
+    "text": "The fox is on the box.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a box.",
+    "phrases": [
+      "The fox",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s30",
+    "text": "The fox is on the grass.",
+    "pattern": "short-o",
+    "picture": "🦊",
+    "meaning": "Look! A fox rests on a grass.",
+    "phrases": [
+      "The fox",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s31",
+    "text": "The rat is on the mat.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a mat.",
+    "phrases": [
+      "The rat",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s32",
+    "text": "The rat is on the bed.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a bed.",
+    "phrases": [
+      "The rat",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s33",
+    "text": "The rat is on the rug.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a rug.",
+    "phrases": [
+      "The rat",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s34",
+    "text": "The rat is on the log.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a log.",
+    "phrases": [
+      "The rat",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s35",
+    "text": "The rat is on the box.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a box.",
+    "phrases": [
+      "The rat",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s36",
+    "text": "The rat is on the grass.",
+    "pattern": "short-a",
+    "picture": "🐀",
+    "meaning": "Look! A rat rests on a grass.",
+    "phrases": [
+      "The rat",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s37",
+    "text": "The rabbit is on the mat.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a mat.",
+    "phrases": [
+      "The rabbit",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s38",
+    "text": "The rabbit is on the bed.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a bed.",
+    "phrases": [
+      "The rabbit",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s39",
+    "text": "The rabbit is on the rug.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a rug.",
+    "phrases": [
+      "The rabbit",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s40",
+    "text": "The rabbit is on the log.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a log.",
+    "phrases": [
+      "The rabbit",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s41",
+    "text": "The rabbit is on the box.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a box.",
+    "phrases": [
+      "The rabbit",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s42",
+    "text": "The rabbit is on the grass.",
+    "pattern": "longer-words",
+    "picture": "🐇",
+    "meaning": "Look! A rabbit rests on a grass.",
+    "phrases": [
+      "The rabbit",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s43",
+    "text": "The kitten is on the mat.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a mat.",
+    "phrases": [
+      "The kitten",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s44",
+    "text": "The kitten is on the bed.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a bed.",
+    "phrases": [
+      "The kitten",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s45",
+    "text": "The kitten is on the rug.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a rug.",
+    "phrases": [
+      "The kitten",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s46",
+    "text": "The kitten is on the log.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a log.",
+    "phrases": [
+      "The kitten",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s47",
+    "text": "The kitten is on the box.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a box.",
+    "phrases": [
+      "The kitten",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s48",
+    "text": "The kitten is on the grass.",
+    "pattern": "longer-words",
+    "picture": "🐱",
+    "meaning": "Look! A kitten rests on a grass.",
+    "phrases": [
+      "The kitten",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s49",
+    "text": "The puppy is on the mat.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a mat.",
+    "phrases": [
+      "The puppy",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s50",
+    "text": "The puppy is on the bed.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a bed.",
+    "phrases": [
+      "The puppy",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s51",
+    "text": "The puppy is on the rug.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a rug.",
+    "phrases": [
+      "The puppy",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s52",
+    "text": "The puppy is on the log.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a log.",
+    "phrases": [
+      "The puppy",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s53",
+    "text": "The puppy is on the box.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a box.",
+    "phrases": [
+      "The puppy",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s54",
+    "text": "The puppy is on the grass.",
+    "pattern": "longer-words",
+    "picture": "🐶",
+    "meaning": "Look! A puppy rests on a grass.",
+    "phrases": [
+      "The puppy",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s55",
+    "text": "The frog is on the mat.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a mat.",
+    "phrases": [
+      "The frog",
+      "is on the mat."
+    ]
+  },
+  {
+    "id": "s56",
+    "text": "The frog is on the bed.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a bed.",
+    "phrases": [
+      "The frog",
+      "is on the bed."
+    ]
+  },
+  {
+    "id": "s57",
+    "text": "The frog is on the rug.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a rug.",
+    "phrases": [
+      "The frog",
+      "is on the rug."
+    ]
+  },
+  {
+    "id": "s58",
+    "text": "The frog is on the log.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a log.",
+    "phrases": [
+      "The frog",
+      "is on the log."
+    ]
+  },
+  {
+    "id": "s59",
+    "text": "The frog is on the box.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a box.",
+    "phrases": [
+      "The frog",
+      "is on the box."
+    ]
+  },
+  {
+    "id": "s60",
+    "text": "The frog is on the grass.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "Look! A frog rests on a grass.",
+    "phrases": [
+      "The frog",
+      "is on the grass."
+    ]
+  },
+  {
+    "id": "s61",
+    "text": "I see the tree.",
+    "pattern": "vowel-teams",
+    "picture": "🌳",
+    "meaning": "I can see this tree.",
+    "phrases": [
+      "I see",
+      "the tree."
+    ]
+  },
+  {
+    "id": "s62",
+    "text": "We see the tree.",
+    "pattern": "vowel-teams",
+    "picture": "🌳",
+    "meaning": "We can see this tree.",
+    "phrases": [
+      "We see",
+      "the tree."
+    ]
+  },
+  {
+    "id": "s63",
+    "text": "You see the tree.",
+    "pattern": "vowel-teams",
+    "picture": "🌳",
+    "meaning": "You can see this tree.",
+    "phrases": [
+      "You see",
+      "the tree."
+    ]
+  },
+  {
+    "id": "s64",
+    "text": "I see the boat.",
+    "pattern": "vowel-teams",
+    "picture": "⛵",
+    "meaning": "I can see this boat.",
+    "phrases": [
+      "I see",
+      "the boat."
+    ]
+  },
+  {
+    "id": "s65",
+    "text": "We see the boat.",
+    "pattern": "vowel-teams",
+    "picture": "⛵",
+    "meaning": "We can see this boat.",
+    "phrases": [
+      "We see",
+      "the boat."
+    ]
+  },
+  {
+    "id": "s66",
+    "text": "You see the boat.",
+    "pattern": "vowel-teams",
+    "picture": "⛵",
+    "meaning": "You can see this boat.",
+    "phrases": [
+      "You see",
+      "the boat."
+    ]
+  },
+  {
+    "id": "s67",
+    "text": "I see the star.",
+    "pattern": "vowel-teams",
+    "picture": "⭐",
+    "meaning": "I can see this star.",
+    "phrases": [
+      "I see",
+      "the star."
+    ]
+  },
+  {
+    "id": "s68",
+    "text": "We see the star.",
+    "pattern": "vowel-teams",
+    "picture": "⭐",
+    "meaning": "We can see this star.",
+    "phrases": [
+      "We see",
+      "the star."
+    ]
+  },
+  {
+    "id": "s69",
+    "text": "You see the star.",
+    "pattern": "vowel-teams",
+    "picture": "⭐",
+    "meaning": "You can see this star.",
+    "phrases": [
+      "You see",
+      "the star."
+    ]
+  },
+  {
+    "id": "s70",
+    "text": "I see the moon.",
+    "pattern": "vowel-teams",
+    "picture": "🌙",
+    "meaning": "I can see this moon.",
+    "phrases": [
+      "I see",
+      "the moon."
+    ]
+  },
+  {
+    "id": "s71",
+    "text": "We see the moon.",
+    "pattern": "vowel-teams",
+    "picture": "🌙",
+    "meaning": "We can see this moon.",
+    "phrases": [
+      "We see",
+      "the moon."
+    ]
+  },
+  {
+    "id": "s72",
+    "text": "You see the moon.",
+    "pattern": "vowel-teams",
+    "picture": "🌙",
+    "meaning": "You can see this moon.",
+    "phrases": [
+      "You see",
+      "the moon."
+    ]
+  },
+  {
+    "id": "s73",
+    "text": "I see the bird.",
+    "pattern": "vowel-teams",
+    "picture": "🐦",
+    "meaning": "I can see this bird.",
+    "phrases": [
+      "I see",
+      "the bird."
+    ]
+  },
+  {
+    "id": "s74",
+    "text": "We see the bird.",
+    "pattern": "vowel-teams",
+    "picture": "🐦",
+    "meaning": "We can see this bird.",
+    "phrases": [
+      "We see",
+      "the bird."
+    ]
+  },
+  {
+    "id": "s75",
+    "text": "You see the bird.",
+    "pattern": "vowel-teams",
+    "picture": "🐦",
+    "meaning": "You can see this bird.",
+    "phrases": [
+      "You see",
+      "the bird."
+    ]
+  },
+  {
+    "id": "s76",
+    "text": "I see the rainbow.",
+    "pattern": "vowel-teams",
+    "picture": "🌈",
+    "meaning": "I can see this rainbow.",
+    "phrases": [
+      "I see",
+      "the rainbow."
+    ]
+  },
+  {
+    "id": "s77",
+    "text": "We see the rainbow.",
+    "pattern": "vowel-teams",
+    "picture": "🌈",
+    "meaning": "We can see this rainbow.",
+    "phrases": [
+      "We see",
+      "the rainbow."
+    ]
+  },
+  {
+    "id": "s78",
+    "text": "You see the rainbow.",
+    "pattern": "vowel-teams",
+    "picture": "🌈",
+    "meaning": "You can see this rainbow.",
+    "phrases": [
+      "You see",
+      "the rainbow."
+    ]
+  },
+  {
+    "id": "s79",
+    "text": "I like the cake.",
+    "pattern": "vowel-teams",
+    "picture": "🎂",
+    "meaning": "I can like this cake.",
+    "phrases": [
+      "I like",
+      "the cake."
+    ]
+  },
+  {
+    "id": "s80",
+    "text": "We like the cake.",
+    "pattern": "vowel-teams",
+    "picture": "🎂",
+    "meaning": "We can like this cake.",
+    "phrases": [
+      "We like",
+      "the cake."
+    ]
+  },
+  {
+    "id": "s81",
+    "text": "You like the cake.",
+    "pattern": "vowel-teams",
+    "picture": "🎂",
+    "meaning": "You can like this cake.",
+    "phrases": [
+      "You like",
+      "the cake."
+    ]
+  },
+  {
+    "id": "s82",
+    "text": "I like the milk.",
+    "pattern": "vowel-teams",
+    "picture": "🥛",
+    "meaning": "I can like this milk.",
+    "phrases": [
+      "I like",
+      "the milk."
+    ]
+  },
+  {
+    "id": "s83",
+    "text": "We like the milk.",
+    "pattern": "vowel-teams",
+    "picture": "🥛",
+    "meaning": "We can like this milk.",
+    "phrases": [
+      "We like",
+      "the milk."
+    ]
+  },
+  {
+    "id": "s84",
+    "text": "You like the milk.",
+    "pattern": "vowel-teams",
+    "picture": "🥛",
+    "meaning": "You can like this milk.",
+    "phrases": [
+      "You like",
+      "the milk."
+    ]
+  },
+  {
+    "id": "s85",
+    "text": "I like the rain.",
+    "pattern": "vowel-teams",
+    "picture": "🌧️",
+    "meaning": "I can like this rain.",
+    "phrases": [
+      "I like",
+      "the rain."
+    ]
+  },
+  {
+    "id": "s86",
+    "text": "We like the rain.",
+    "pattern": "vowel-teams",
+    "picture": "🌧️",
+    "meaning": "We can like this rain.",
+    "phrases": [
+      "We like",
+      "the rain."
+    ]
+  },
+  {
+    "id": "s87",
+    "text": "You like the rain.",
+    "pattern": "vowel-teams",
+    "picture": "🌧️",
+    "meaning": "You can like this rain.",
+    "phrases": [
+      "You like",
+      "the rain."
+    ]
+  },
+  {
+    "id": "s88",
+    "text": "I like the snow.",
+    "pattern": "vowel-teams",
+    "picture": "❄️",
+    "meaning": "I can like this snow.",
+    "phrases": [
+      "I like",
+      "the snow."
+    ]
+  },
+  {
+    "id": "s89",
+    "text": "We like the snow.",
+    "pattern": "vowel-teams",
+    "picture": "❄️",
+    "meaning": "We can like this snow.",
+    "phrases": [
+      "We like",
+      "the snow."
+    ]
+  },
+  {
+    "id": "s90",
+    "text": "You like the snow.",
+    "pattern": "vowel-teams",
+    "picture": "❄️",
+    "meaning": "You can like this snow.",
+    "phrases": [
+      "You like",
+      "the snow."
+    ]
+  },
+  {
+    "id": "s91",
+    "text": "I can hop.",
+    "pattern": "short-o",
+    "picture": "🐇",
+    "meaning": "I can hop.",
+    "phrases": [
+      "I",
+      "can hop."
+    ]
+  },
+  {
+    "id": "s92",
+    "text": "I can run.",
+    "pattern": "short-u",
+    "picture": "🏃",
+    "meaning": "I can run.",
+    "phrases": [
+      "I",
+      "can run."
+    ]
+  },
+  {
+    "id": "s93",
+    "text": "We can swim.",
+    "pattern": "blends",
+    "picture": "🏊",
+    "meaning": "We can swim.",
+    "phrases": [
+      "We",
+      "can swim."
+    ]
+  },
+  {
+    "id": "s94",
+    "text": "The sun is hot.",
+    "pattern": "short-u",
+    "picture": "☀️",
+    "meaning": "The sun is hot.",
+    "phrases": [
+      "The sun",
+      "is hot."
+    ]
+  },
+  {
+    "id": "s95",
+    "text": "The bug is little.",
+    "pattern": "longer-words",
+    "picture": "🐞",
+    "meaning": "The bug is little.",
+    "phrases": [
+      "The bug",
+      "is little."
+    ]
+  },
+  {
+    "id": "s96",
+    "text": "My hat is red.",
+    "pattern": "short-a",
+    "picture": "🎩",
+    "meaning": "My hat is red.",
+    "phrases": [
+      "My hat",
+      "is red."
+    ]
+  },
+  {
+    "id": "s97",
+    "text": "The fish can swim.",
+    "pattern": "digraphs",
+    "picture": "🐟",
+    "meaning": "The fish can swim.",
+    "phrases": [
+      "The fish",
+      "can swim."
+    ]
+  },
+  {
+    "id": "s98",
+    "text": "We play a game.",
+    "pattern": "silent-e",
+    "picture": "🎮",
+    "meaning": "We play a game.",
+    "phrases": [
+      "We play",
+      "a game."
+    ]
+  },
+  {
+    "id": "s99",
+    "text": "The kite is high.",
+    "pattern": "diphthongs",
+    "picture": "🪁",
+    "meaning": "The kite is high.",
+    "phrases": [
+      "The kite",
+      "is high."
+    ]
+  },
+  {
+    "id": "s100",
+    "text": "I see a cow.",
+    "pattern": "diphthongs",
+    "picture": "🐄",
+    "meaning": "I see a cow.",
+    "phrases": [
+      "I see",
+      "a cow."
+    ]
+  },
+  {
+    "id": "s101",
+    "text": "The bird can sing.",
+    "pattern": "r-controlled",
+    "picture": "🐦",
+    "meaning": "The bird can sing.",
+    "phrases": [
+      "The bird",
+      "can sing."
+    ]
+  },
+  {
+    "id": "s102",
+    "text": "I have a book.",
+    "pattern": "vowel-teams",
+    "picture": "📚",
+    "meaning": "I have a book.",
+    "phrases": [
+      "I have",
+      "a book."
+    ]
+  },
+  {
+    "id": "s103",
+    "text": "My cup is big.",
+    "pattern": "short-u",
+    "picture": "☕",
+    "meaning": "My cup is big.",
+    "phrases": [
+      "My cup",
+      "is big."
+    ]
+  },
+  {
+    "id": "s104",
+    "text": "The apple is red.",
+    "pattern": "longer-words",
+    "picture": "🍎",
+    "meaning": "The apple is red.",
+    "phrases": [
+      "The apple",
+      "is red."
+    ]
+  },
+  {
+    "id": "s105",
+    "text": "My dog is happy.",
+    "pattern": "short-o",
+    "picture": "🐕",
+    "meaning": "My dog is happy.",
+    "phrases": [
+      "My dog",
+      "is happy."
+    ]
+  },
+  {
+    "id": "s106",
+    "text": "I can clap.",
+    "pattern": "blends",
+    "picture": "👏",
+    "meaning": "I can clap.",
+    "phrases": [
+      "I",
+      "can clap."
+    ]
+  },
+  {
+    "id": "s107",
+    "text": "We like the park.",
+    "pattern": "r-controlled",
+    "picture": "🏞️",
+    "meaning": "We like the park.",
+    "phrases": [
+      "We like",
+      "the park."
+    ]
+  },
+  {
+    "id": "s108",
+    "text": "My boat can float.",
+    "pattern": "vowel-teams",
+    "picture": "⛵",
+    "meaning": "My boat can float.",
+    "phrases": [
+      "My boat",
+      "can float."
+    ]
+  },
+  {
+    "id": "s109",
+    "text": "The sky is blue.",
+    "pattern": "diphthongs",
+    "picture": "🌌",
+    "meaning": "The sky is blue.",
+    "phrases": [
+      "The sky",
+      "is blue."
+    ]
+  },
+  {
+    "id": "s110",
+    "text": "We help the teacher.",
+    "pattern": "longer-words",
+    "picture": "🧑‍🏫",
+    "meaning": "We help the teacher.",
+    "phrases": [
+      "We help",
+      "the teacher."
+    ]
+  },
+  {
+    "id": "s111",
+    "text": "The duck is wet.",
+    "pattern": "digraphs",
+    "picture": "🦆",
+    "meaning": "The duck is wet.",
+    "phrases": [
+      "The duck",
+      "is wet."
+    ]
+  },
+  {
+    "id": "s112",
+    "text": "The cat can nap.",
+    "pattern": "short-a",
+    "picture": "🐈",
+    "meaning": "The cat can nap.",
+    "phrases": [
+      "The cat",
+      "can nap."
+    ]
+  },
+  {
+    "id": "s113",
+    "text": "The hen has eggs.",
+    "pattern": "short-e",
+    "picture": "🥚",
+    "meaning": "The hen has eggs.",
+    "phrases": [
+      "The hen",
+      "has eggs."
+    ]
+  },
+  {
+    "id": "s114",
+    "text": "The pig is pink.",
+    "pattern": "short-i",
+    "picture": "🐖",
+    "meaning": "The pig is pink.",
+    "phrases": [
+      "The pig",
+      "is pink."
+    ]
+  },
+  {
+    "id": "s115",
+    "text": "The frog can jump.",
+    "pattern": "blends",
+    "picture": "🐸",
+    "meaning": "The frog can jump.",
+    "phrases": [
+      "The frog",
+      "can jump."
+    ]
+  },
+  {
+    "id": "s116",
+    "text": "I like my family.",
+    "pattern": "longer-words",
+    "picture": "👨‍👩‍👧",
+    "meaning": "I like my family.",
+    "phrases": [
+      "I like",
+      "my family."
+    ]
+  },
+  {
+    "id": "s117",
+    "text": "The rose is red.",
+    "pattern": "silent-e",
+    "picture": "🌹",
+    "meaning": "The rose is red.",
+    "phrases": [
+      "The rose",
+      "is red."
+    ]
+  },
+  {
+    "id": "s118",
+    "text": "The tree is green.",
+    "pattern": "vowel-teams",
+    "picture": "🌳",
+    "meaning": "The tree is green.",
+    "phrases": [
+      "The tree",
+      "is green."
+    ]
+  },
+  {
+    "id": "s119",
+    "text": "My shirt is clean.",
+    "pattern": "r-controlled",
+    "picture": "👕",
+    "meaning": "My shirt is clean.",
+    "phrases": [
+      "My shirt",
+      "is clean."
+    ]
+  },
+  {
+    "id": "s120",
+    "text": "I can try again.",
+    "pattern": "diphthongs",
+    "picture": "🌱",
+    "meaning": "I can try again.",
+    "phrases": [
+      "I can",
+      "try again."
+    ]
+  }
+]

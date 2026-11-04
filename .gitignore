@@ -1,2 +1,8 @@
 node_modules/
 *.log
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/**/build/
+*.jks
+*.keystore

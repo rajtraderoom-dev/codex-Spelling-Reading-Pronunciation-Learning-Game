@@ -1,0 +1,86 @@
+[
+  {
+    "id": "short-a",
+    "title": "Short a · cat",
+    "sound": "a",
+    "level": 1,
+    "picture": "🐈"
+  },
+  {
+    "id": "short-e",
+    "title": "Short e · hen",
+    "sound": "e",
+    "level": 1,
+    "picture": "🥚"
+  },
+  {
+    "id": "short-i",
+    "title": "Short i · pig",
+    "sound": "i",
+    "level": 1,
+    "picture": "🐖"
+  },
+  {
+    "id": "short-o",
+    "title": "Short o · dog",
+    "sound": "o",
+    "level": 1,
+    "picture": "🐕"
+  },
+  {
+    "id": "short-u",
+    "title": "Short u · sun",
+    "sound": "u",
+    "level": 1,
+    "picture": "☀️"
+  },
+  {
+    "id": "blends",
+    "title": "Blend sounds · frog",
+    "sound": "blends",
+    "level": 2,
+    "picture": "🐸"
+  },
+  {
+    "id": "digraphs",
+    "title": "Two letters, one sound",
+    "sound": "digraphs",
+    "level": 2,
+    "picture": "🐟"
+  },
+  {
+    "id": "silent-e",
+    "title": "Magic e · cake",
+    "sound": "silent-e",
+    "level": 3,
+    "picture": "🎂"
+  },
+  {
+    "id": "vowel-teams",
+    "title": "Vowel teams · rain",
+    "sound": "vowel-teams",
+    "level": 3,
+    "picture": "🌧️"
+  },
+  {
+    "id": "r-controlled",
+    "title": "Bossy r · bird",
+    "sound": "r-controlled",
+    "level": 3,
+    "picture": "🐦"
+  },
+  {
+    "id": "diphthongs",
+    "title": "Sliding sounds · owl",
+    "sound": "diphthongs",
+    "level": 4,
+    "picture": "🦉"
+  },
+  {
+    "id": "longer-words",
+    "title": "Little word adventures",
+    "sound": "longer",
+    "level": 4,
+    "picture": "🦋"
+  }
+]

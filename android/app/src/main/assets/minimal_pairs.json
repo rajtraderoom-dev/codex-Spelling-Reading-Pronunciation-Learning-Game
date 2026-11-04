@@ -1,0 +1,62 @@
+[
+  {
+    "a": "vet",
+    "b": "wet",
+    "sound": "v / w",
+    "cue": "For v, top teeth touch your bottom lip. For w, round both lips."
+  },
+  {
+    "a": "pat",
+    "b": "bat",
+    "sound": "p / b",
+    "cue": "For p, use a small puff. For b, feel your voice buzz."
+  },
+  {
+    "a": "ten",
+    "b": "den",
+    "sound": "t / d",
+    "cue": "For t, use air. For d, turn your voice on."
+  },
+  {
+    "a": "sip",
+    "b": "ship",
+    "sound": "s / sh",
+    "cue": "For s, keep lips relaxed. For sh, round your lips a little."
+  },
+  {
+    "a": "thin",
+    "b": "tin",
+    "sound": "th / t",
+    "cue": "For th, let your tongue peek between your teeth."
+  },
+  {
+    "a": "ship",
+    "b": "sheep",
+    "sound": "short i / long ee",
+    "cue": "Keep ship short and relaxed. Smile and hold the sound in sheep."
+  },
+  {
+    "a": "bit",
+    "b": "beat",
+    "sound": "short i / long ee",
+    "cue": "Keep bit short. Stretch the middle sound in beat."
+  },
+  {
+    "a": "cap",
+    "b": "cape",
+    "sound": "short a / long a",
+    "cue": "Cape has a gliding long a sound."
+  },
+  {
+    "a": "full",
+    "b": "fool",
+    "sound": "short oo / long oo",
+    "cue": "Keep full short. Hold the middle sound in fool."
+  },
+  {
+    "a": "fan",
+    "b": "van",
+    "sound": "f / v",
+    "cue": "For f, blow gently. For v, add a buzz."
+  }
+]
